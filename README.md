@@ -12,12 +12,23 @@
 
 ## 介面預覽
 
-| AMD 超頻選單 | AMD 平台選項 |
-| --- | --- |
-| [![手動 CPU 超頻與右側說明](docs/images/amd-overclocking.png)](docs/images/amd-overclocking.png) | [![AMD 平台選項與數值說明](docs/images/slate-zh-tw.png)](docs/images/slate-zh-tw.png) |
-
-| 裝置管理員 | 按 F2 切換為英文 |
-| --- | --- |
-| [![中文版裝置管理員](docs/images/device-manager-zh.png)](docs/images/device-manager-zh.png) | [![同一頁的英文原文](docs/images/device-manager-en.png)](docs/images/device-manager-en.png) |
+<table>
+  <tr>
+    <th width="50%">AMD 超頻選單</th>
+    <th width="50%">AMD 平台選項</th>
+  </tr>
+  <tr>
+    <td><a href="docs/images/amd-overclocking.png"><img src="docs/images/amd-overclocking.png" width="640" alt="手動 CPU 超頻與右側說明"></a></td>
+    <td><a href="docs/images/slate-zh-tw.png"><img src="docs/images/slate-zh-tw.png" width="640" alt="AMD 平台選項與數值說明"></a></td>
+  </tr>
+  <tr>
+    <th width="50%">裝置管理員（中文）</th>
+    <th width="50%">裝置管理員（英文）</th>
+  </tr>
+  <tr>
+    <td><a href="docs/images/device-manager-zh.png"><img src="docs/images/device-manager-zh.png" width="640" alt="中文版裝置管理員"></a></td>
+    <td><a href="docs/images/device-manager-en.png"><img src="docs/images/device-manager-en.png" width="640" alt="同一頁的英文原文"></a></td>
+  </tr>
+</table>
 
 原版工具：[Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF)。
