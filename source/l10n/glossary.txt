@@ -1,0 +1,198 @@
+Configuration Options|設定
+Configuration Parameters|設定參數
+Common Options|通用選項
+Configuration|設定
+Configure|設定
+Bus Configuration|匯流排設定
+Bus|匯流排
+Device Manager|裝置管理員
+Boot Manager|開機管理員
+Boot Option|啟動項目
+Boot Options|啟動項目
+Boot|開機
+System|系統
+Device|裝置
+Devices|裝置
+Discrete GPU|獨顯
+Discrete Graphics|獨顯
+Integrated Graphics|內顯
+Graphics|顯示
+Controller|控制器
+Control|控制
+Controls|控制
+Temperature|溫度
+Voltage|電壓
+Power|電源
+Thermal|溫控
+Threshold|臨界值
+Memory|記憶體
+Disk|磁碟
+Physical Disk|實體磁碟
+Physical Drive|實體磁碟
+Logical Drive|邏輯磁碟
+Spare|備援
+Hot Spare|熱備援磁碟
+Operating System|作業系統
+Spread Spectrum|展頻
+Clock Gating|時脈閘控
+Power Gating|電源閘控
+Controller Management|控制器管理
+Driver|驅動程式
+Version|版本
+Mode|模式
+Clock|時脈
+Frequency|頻率
+Polarity|極性
+Fan|風扇
+Time Constant|時間常數
+Low|低
+High|高
+Medium|中
+Critical|臨界
+Read|讀取
+Write|寫入
+CRC|CRC
+Error|錯誤
+Parity|同位檢查
+Retry|重試
+Address|位址
+Data|資料
+Size|大小
+Table|表
+Range|範圍
+Limit|上限
+Limits|上限
+Support|支援
+Hotplug|熱插拔
+Hot Plug|熱插拔
+Speed|速度
+Link|連線
+Slot|插槽
+Port|連接埠
+Ports|連接埠
+Lane|通道
+Channel|通道
+Timer|計時器
+Count|數量
+Function|功能
+Enable|啟用
+Enabled|啟用
+Disable|停用
+Disabled|停用
+Default|預設
+Defaults|預設值
+Force|強制
+Forced|強制
+Interleaving|交錯
+Training|訓練
+Pattern|圖樣
+Step Size|步進
+Static|靜態
+Target|目標
+Aggressor|干擾源
+Upper|高
+Lower|低
+Bits|位元
+Bit|位元
+Per|每
+Value|數值
+Routing|路由
+Route|路由
+Output|輸出
+Input|輸入
+Policy|原則
+Network|網路
+Stack|堆疊
+Priority|優先順序
+Priorities|優先順序
+Type|類型
+Onboard|板載
+OnChip|晶片內建
+Internal|內部
+External|外部
+Controller|控制器
+Board|主機板
+Features|功能
+Feature|功能
+Feature Selection|功能選擇
+Support|支援
+Menu|選單
+Setup Page|設定頁
+Setup|設定
+Settings|設定
+Setting|設定
+Manager|管理員
+Management|管理
+Password|密碼
+Key|金鑰
+Keys|金鑰
+Certificate|憑證
+Database|資料庫
+Device Class|裝置類別
+Dispatch Policy|載入原則
+Secure Boot|安全開機
+Security|安全性
+Technology|技術
+Platform|平台
+Information|資訊
+Option ROM|選用 ROM
+Option|選項
+Options|選項
+Selection|選擇
+Select|選擇
+Array|陣列
+Current|目前
+Serial|序列
+Number|編號
+Status|狀態
+Properties|屬性
+Ready|就緒
+Auto|自動
+Automatic|自動
+Firmware|韌體
+File|檔案
+Folder|資料夾
+Name|名稱
+Driver Health Manager|驅動程式狀態
+RAM Disk|RAM 磁碟
+Bank Group|Bank 群組
+Host|主機
+Debug|除錯
+Test|測試
+Watchdog|監控計時器
+Debug Message|除錯訊息
+Graphics Card|顯示卡
+Audio|音效
+Display|顯示
+Primary|主要
+Global|全域
+Front|前端
+Mapping|映射
+Performance|效能
+Saving|節省
+Idle|閒置
+Core|核心
+Override|覆寫
+Enhancement|增強
+Timer Interval|計時間隔
+System Management|系統管理
+Refresh|更新
+Detection|偵測
+Generation|產生
+Legacy|傳統
+Native|原生
+Storage|儲存
+Block|區塊
+Programming|寫入
+Level|等級
+Protocol|協定
+Overclocking|超頻
+Bandwidth|頻寬
+Input Voltage|輸入電壓
+Recovery|復原
+Minimum|最小
+Maximum|最大
+Message|訊息
+Interface|介面
+Hysteresis|遲滯
+Core Complex|核心複合體

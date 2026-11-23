@@ -1,0 +1,5 @@
+/dist/
+/Build/
+__pycache__/
+*.pyc
+/source/l10n/authoring-qa.json

@@ -1,0 +1,20 @@
+{
+"Driver Health Manager":"驅動程式狀態",
+"List all the Driver Health instances to manage":"檢視各驅動程式回報的狀態。",
+"TLS Auth Configuration":"TLS 驗證設定",
+"OVMF Platform Configuration":"OVMF 平台設定",
+"Change Preferred Resolution for Next Boot":"下次開機的偏好解析度",
+"Preferred Resolution at Next Boot":"下次開機解析度",
+"PCI Subsystem Settings":"PCI 子系統設定",
+"Option ROM Dispatch Policy":"選用 ROM 載入原則",
+"IDE Configuration":"IDE 設定",
+"TLS Authentication Configuration":"TLS 驗證設定",
+"Configure RAM Disk":"設定 RAM 磁碟",
+"unknown":"未知",
+"Unknown":"未知",
+"Standard English":"英語",
+"Reserved":"保留",
+"Network Device List":"網路裝置清單",
+"UEFI Firmware Settings":"UEFI 韌體設定",
+"Firmware settings":"韌體設定"
+}

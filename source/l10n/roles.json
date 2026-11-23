@@ -1,0 +1,7718 @@
+{
+ "%02d:%02d:%02d": [
+  "value"
+ ],
+ "%02x:%02x:%02x:%02x:%02x:%02x": [
+  "value"
+ ],
+ "%s": [
+  "label",
+  "value"
+ ],
+ "(CSM not Active) - 'UEFI' used:": [
+  "label"
+ ],
+ "(Selected at CSM Setup Page)  :": [
+  "label"
+ ],
+ "--------- Cache per core ---------": [
+  "label"
+ ],
+ "0": [
+  "value"
+ ],
+ "0 = 25kHz\r\n1 = 100Hz": [
+  "help"
+ ],
+ "0 = negative\r\n1 = positive": [
+  "help"
+ ],
+ "00.00": [
+  "label",
+  "value"
+ ],
+ "0A Clk": [
+  "value"
+ ],
+ "0Ah Clk": [
+  "value"
+ ],
+ "0B Clk": [
+  "value"
+ ],
+ "0Bh Clk": [
+  "value"
+ ],
+ "0C Clk": [
+  "value"
+ ],
+ "0Ch Clk": [
+  "value"
+ ],
+ "0D Clk": [
+  "value"
+ ],
+ "0Dh Clk": [
+  "value"
+ ],
+ "0E Clk": [
+  "value"
+ ],
+ "0Eh Clk": [
+  "value"
+ ],
+ "0F Clk": [
+  "value"
+ ],
+ "0Fh Clk": [
+  "value"
+ ],
+ "0MHz": [
+  "value"
+ ],
+ "0x2E8": [
+  "value"
+ ],
+ "0x2F8": [
+  "value"
+ ],
+ "0x3E8": [
+  "value"
+ ],
+ "0x3F8": [
+  "value"
+ ],
+ "1": [
+  "value"
+ ],
+ "1 Aggressor Channel": [
+  "value"
+ ],
+ "1 Clk": [
+  "value"
+ ],
+ "1 KB": [
+  "value"
+ ],
+ "1 hour": [
+  "value"
+ ],
+ "1 sec": [
+  "value"
+ ],
+ "1.2": [
+  "value"
+ ],
+ "1.3": [
+  "value"
+ ],
+ "1.309ms": [
+  "value"
+ ],
+ "1.340s": [
+  "value"
+ ],
+ "10 sec": [
+  "value"
+ ],
+ "10.484ms": [
+  "value"
+ ],
+ "10.730s": [
+  "value"
+ ],
+ "100Hz": [
+  "value"
+ ],
+ "100MHz": [
+  "value"
+ ],
+ "1050MHz": [
+  "value"
+ ],
+ "1066MHz": [
+  "value"
+ ],
+ "1067MHz": [
+  "value"
+ ],
+ "10W POR Configuration - 1 Commercial/Consumer": [
+  "value"
+ ],
+ "10X": [
+  "value"
+ ],
+ "10h Clk": [
+  "value"
+ ],
+ "11h Clk": [
+  "value"
+ ],
+ "120 ohm": [
+  "value"
+ ],
+ "120.0 Ohm": [
+  "value"
+ ],
+ "1200MHz": [
+  "value"
+ ],
+ "125MHz": [
+  "value"
+ ],
+ "128KB": [
+  "value"
+ ],
+ "128M": [
+  "value"
+ ],
+ "12h Clk": [
+  "value"
+ ],
+ "1333MHz": [
+  "value"
+ ],
+ "1367MHz": [
+  "value"
+ ],
+ "13h Clk": [
+  "value"
+ ],
+ "1400MHz": [
+  "value"
+ ],
+ "1433MHz": [
+  "value"
+ ],
+ "1467MHz": [
+  "value"
+ ],
+ "14h Clk": [
+  "value"
+ ],
+ "1500MHz": [
+  "value"
+ ],
+ "150MHz": [
+  "value"
+ ],
+ "1533MHz": [
+  "value"
+ ],
+ "1567MHz": [
+  "value"
+ ],
+ "15W POR Configuration - 2 Commercial/Consumer": [
+  "value"
+ ],
+ "15h Clk": [
+  "value"
+ ],
+ "16 hours": [
+  "value"
+ ],
+ "16.5MHz": [
+  "value"
+ ],
+ "160 ohm": [
+  "value"
+ ],
+ "1600MHz": [
+  "value"
+ ],
+ "162.56us": [
+  "value"
+ ],
+ "1633MHz": [
+  "value"
+ ],
+ "166.37ms": [
+  "value"
+ ],
+ "1667MHz": [
+  "value"
+ ],
+ "16G": [
+  "value"
+ ],
+ "16h Clk": [
+  "value"
+ ],
+ "1700MHz": [
+  "value"
+ ],
+ "1733MHz": [
+  "value"
+ ],
+ "175MHz": [
+  "value"
+ ],
+ "1767MHz": [
+  "value"
+ ],
+ "17h Clk": [
+  "value"
+ ],
+ "1800MHz": [
+  "value"
+ ],
+ "1833MHz": [
+  "value"
+ ],
+ "1867MHz": [
+  "value"
+ ],
+ "18h Clk": [
+  "value"
+ ],
+ "1900MHz": [
+  "value"
+ ],
+ "1933MHz": [
+  "value"
+ ],
+ "1967MHz": [
+  "value"
+ ],
+ "19h Clk": [
+  "value"
+ ],
+ "1Ah Clk": [
+  "value"
+ ],
+ "1Bh Clk": [
+  "value"
+ ],
+ "1Ch Clk": [
+  "value"
+ ],
+ "1D Timing Sweep": [
+  "value"
+ ],
+ "1D Voltage Sweep": [
+  "value"
+ ],
+ "1Dh Clk": [
+  "value"
+ ],
+ "1Eh Clk": [
+  "value"
+ ],
+ "1Fh Clk": [
+  "value"
+ ],
+ "1G": [
+  "value"
+ ],
+ "1T": [
+  "value"
+ ],
+ "1X": [
+  "value"
+ ],
+ "2": [
+  "value"
+ ],
+ "2 Clk": [
+  "value"
+ ],
+ "2 KB": [
+  "value"
+ ],
+ "2.620ms": [
+  "value"
+ ],
+ "2.681s": [
+  "value"
+ ],
+ "20 sec": [
+  "value"
+ ],
+ "20.0 Ohm": [
+  "value"
+ ],
+ "20.970ms": [
+  "value"
+ ],
+ "200 K": [
+  "value"
+ ],
+ "2000MHz": [
+  "value"
+ ],
+ "200MHz": [
+  "value"
+ ],
+ "2033MHz": [
+  "value"
+ ],
+ "2067MHz": [
+  "value"
+ ],
+ "20h Clk": [
+  "value"
+ ],
+ "21.461s": [
+  "value"
+ ],
+ "2100MHz": [
+  "value"
+ ],
+ "2133MHZ": [
+  "value"
+ ],
+ "2167MHZ": [
+  "value"
+ ],
+ "21h Clk": [
+  "value"
+ ],
+ "2200MHZ": [
+  "value"
+ ],
+ "2233MHZ": [
+  "value"
+ ],
+ "2267MHZ": [
+  "value"
+ ],
+ "22MHz": [
+  "value"
+ ],
+ "22h Clk": [
+  "value"
+ ],
+ "2300MHZ": [
+  "value"
+ ],
+ "2333MHZ": [
+  "value"
+ ],
+ "2367MHZ": [
+  "value"
+ ],
+ "23h Clk": [
+  "value"
+ ],
+ "24 hours": [
+  "value"
+ ],
+ "24.0 Ohm": [
+  "value"
+ ],
+ "240 ohm": [
+  "value"
+ ],
+ "2400MHZ": [
+  "value"
+ ],
+ "2433MHZ": [
+  "value"
+ ],
+ "2467MHZ": [
+  "value"
+ ],
+ "24h Clk": [
+  "value"
+ ],
+ "2500MHZ": [
+  "value"
+ ],
+ "253 ASIDs": [
+  "value"
+ ],
+ "2550MHZ": [
+  "value"
+ ],
+ "256 Bytes": [
+  "value"
+ ],
+ "256KB": [
+  "value"
+ ],
+ "256M": [
+  "value"
+ ],
+ "25MHz": [
+  "value"
+ ],
+ "25W POR Configuration - 3 Commercial/Consumer": [
+  "value"
+ ],
+ "25h Clk": [
+  "value"
+ ],
+ "25kHz": [
+  "value"
+ ],
+ "2600MHZ": [
+  "value"
+ ],
+ "2650MHZ": [
+  "value"
+ ],
+ "26h Clk": [
+  "value"
+ ],
+ "2700MHZ": [
+  "value"
+ ],
+ "2750MHZ": [
+  "value"
+ ],
+ "27h Clk": [
+  "value"
+ ],
+ "28.2 ohm": [
+  "value"
+ ],
+ "2800MHZ": [
+  "value"
+ ],
+ "2850MHZ": [
+  "value"
+ ],
+ "28h Clk": [
+  "value"
+ ],
+ "2900MHZ": [
+  "value"
+ ],
+ "2950MHZ": [
+  "value"
+ ],
+ "29h Clk": [
+  "value"
+ ],
+ "2Ah Clk": [
+  "value"
+ ],
+ "2Bh Clk": [
+  "value"
+ ],
+ "2Ch Clk": [
+  "value"
+ ],
+ "2D Full Data Eye": [
+  "value"
+ ],
+ "2Dh Clk": [
+  "value"
+ ],
+ "2Eh Clk": [
+  "value"
+ ],
+ "2Fh Clk": [
+  "value"
+ ],
+ "2G": [
+  "value"
+ ],
+ "2T": [
+  "value"
+ ],
+ "2X": [
+  "value"
+ ],
+ "3 Aggressor Channels": [
+  "value"
+ ],
+ "3 Clk": [
+  "value"
+ ],
+ "30 ohm": [
+  "value"
+ ],
+ "30 sec": [
+  "value"
+ ],
+ "30.0 Ohm": [
+  "value"
+ ],
+ "300 K": [
+  "value"
+ ],
+ "3000MHZ": [
+  "value"
+ ],
+ "3050MHZ": [
+  "value"
+ ],
+ "30h Clk": [
+  "value"
+ ],
+ "3100MHZ": [
+  "value"
+ ],
+ "3150MHZ": [
+  "value"
+ ],
+ "31h Clk": [
+  "value"
+ ],
+ "32 ohm": [
+  "value"
+ ],
+ "3200MHZ": [
+  "value"
+ ],
+ "3250MHZ": [
+  "value"
+ ],
+ "326.4us": [
+  "value"
+ ],
+ "32h Clk": [
+  "value"
+ ],
+ "3300MHZ": [
+  "value"
+ ],
+ "333MHz": [
+  "value"
+ ],
+ "334.05ms": [
+  "value"
+ ],
+ "3350MHZ": [
+  "value"
+ ],
+ "33MHz": [
+  "value"
+ ],
+ "33h Clk": [
+  "value"
+ ],
+ "34.3 ohm": [
+  "value"
+ ],
+ "3400MHZ": [
+  "value"
+ ],
+ "3450MHZ": [
+  "value"
+ ],
+ "34h Clk": [
+  "value"
+ ],
+ "3500MHZ": [
+  "value"
+ ],
+ "3550MHZ": [
+  "value"
+ ],
+ "35W COMMERCIAL and CONSUMER - SYSTEM CONFIG 1": [
+  "value"
+ ],
+ "35W POR Configuration - 4 Consumer": [
+  "value"
+ ],
+ "35bit (32GB)": [
+  "value"
+ ],
+ "35h Clk": [
+  "value"
+ ],
+ "36.9 ohm": [
+  "value"
+ ],
+ "3600MHZ": [
+  "value"
+ ],
+ "3650MHZ": [
+  "value"
+ ],
+ "36bit (64GB)": [
+  "value"
+ ],
+ "36h Clk": [
+  "value"
+ ],
+ "3700MHZ": [
+  "value"
+ ],
+ "3750MHZ": [
+  "value"
+ ],
+ "37bit (128GB)": [
+  "value"
+ ],
+ "37h Clk": [
+  "value"
+ ],
+ "3800MHZ": [
+  "value"
+ ],
+ "384M": [
+  "value"
+ ],
+ "3850MHZ": [
+  "value"
+ ],
+ "38bit (256GB)": [
+  "value"
+ ],
+ "38h Clk": [
+  "value"
+ ],
+ "39.68us": [
+  "value"
+ ],
+ "3900MHZ": [
+  "value"
+ ],
+ "3950MHZ": [
+  "value"
+ ],
+ "39bit (512GB)": [
+  "value"
+ ],
+ "39h Clk": [
+  "value"
+ ],
+ "3Ah Clk": [
+  "value"
+ ],
+ "3Bh Clk": [
+  "value"
+ ],
+ "3Ch Clk": [
+  "value"
+ ],
+ "3Dh Clk": [
+  "value"
+ ],
+ "3Eh Clk": [
+  "value"
+ ],
+ "3Fh Clk": [
+  "value"
+ ],
+ "3G": [
+  "value"
+ ],
+ "3X": [
+  "value"
+ ],
+ "4": [
+  "value"
+ ],
+ "4 Clk": [
+  "value"
+ ],
+ "4 hours": [
+  "value"
+ ],
+ "40 ohm": [
+  "value"
+ ],
+ "40 sec": [
+  "value"
+ ],
+ "40.0 Ohm": [
+  "value"
+ ],
+ "40.61ms": [
+  "value"
+ ],
+ "400 K": [
+  "value"
+ ],
+ "4000MHZ": [
+  "value"
+ ],
+ "400MHz": [
+  "value"
+ ],
+ "40bit (1TB)": [
+  "value"
+ ],
+ "41bit (2TB)": [
+  "value"
+ ],
+ "42bit (4TB)": [
+  "value"
+ ],
+ "43.6 ohm": [
+  "value"
+ ],
+ "43bit (8TB)": [
+  "value"
+ ],
+ "44bit (16TB)": [
+  "value"
+ ],
+ "45W COMMERCIAL and CONSUMER - SYSTEM CONFIG 2": [
+  "value"
+ ],
+ "45W POR Configuration - 5 Consumer": [
+  "value"
+ ],
+ "45bit (32TB)": [
+  "value"
+ ],
+ "46bit (64TB)": [
+  "value"
+ ],
+ "47bit (128TB)": [
+  "value"
+ ],
+ "48 hours": [
+  "value"
+ ],
+ "48 ohm": [
+  "value"
+ ],
+ "480 ohm": [
+  "value"
+ ],
+ "48bit (256TB)": [
+  "value"
+ ],
+ "4G": [
+  "value"
+ ],
+ "4X": [
+  "value"
+ ],
+ "5 Clk": [
+  "value"
+ ],
+ "5 sec": [
+  "value"
+ ],
+ "5.241ms": [
+  "value"
+ ],
+ "5.364s": [
+  "value"
+ ],
+ "500 K": [
+  "value"
+ ],
+ "509 ASIDs": [
+  "value"
+ ],
+ "50MHz": [
+  "value"
+ ],
+ "512 Bytes": [
+  "value"
+ ],
+ "512M": [
+  "value"
+ ],
+ "53.3 ohm": [
+  "value"
+ ],
+ "533MHz": [
+  "value"
+ ],
+ "54W POR Configuration - 6 Consumer": [
+  "value"
+ ],
+ "5V_S5 voltage setting for ANPEC PSA": [
+  "help"
+ ],
+ "5V_S5 voltage.": [
+  "label"
+ ],
+ "5X": [
+  "value"
+ ],
+ "5v_ALW +100mv": [
+  "value"
+ ],
+ "5v_ALW +60mv": [
+  "value"
+ ],
+ "5v_ALW(default)": [
+  "value"
+ ],
+ "6 Clk": [
+  "value"
+ ],
+ "60 ohm": [
+  "value"
+ ],
+ "60.0 Ohm": [
+  "value"
+ ],
+ "600 K": [
+  "value"
+ ],
+ "64KB": [
+  "value"
+ ],
+ "64M": [
+  "value"
+ ],
+ "654.08us": [
+  "value"
+ ],
+ "65W COMMERCIAL - SYSTEM CONFIG 3": [
+  "value"
+ ],
+ "65W CONSUMER - SYSTEM CONFIG 6": [
+  "value"
+ ],
+ "667MHz": [
+  "value"
+ ],
+ "669.41ms": [
+  "value"
+ ],
+ "66MHz": [
+  "value"
+ ],
+ "68.6 ohm": [
+  "value"
+ ],
+ "6X": [
+  "value"
+ ],
+ "7 Aggressor Channels": [
+  "value"
+ ],
+ "7 Clk": [
+  "value"
+ ],
+ "700 K": [
+  "value"
+ ],
+ "75MHz": [
+  "value"
+ ],
+ "768M": [
+  "value"
+ ],
+ "7X": [
+  "value"
+ ],
+ "8": [
+  "value"
+ ],
+ "8 Clk": [
+  "value"
+ ],
+ "8 hours": [
+  "value"
+ ],
+ "80 ohm": [
+  "value"
+ ],
+ "80.64us": [
+  "value"
+ ],
+ "800MHz": [
+  "value"
+ ],
+ "802.1Q Priority, valid value is 0~7": [
+  "help"
+ ],
+ "80M": [
+  "value"
+ ],
+ "82.53ms": [
+  "value"
+ ],
+ "8G": [
+  "value"
+ ],
+ "8X": [
+  "value"
+ ],
+ "9 Clk": [
+  "value"
+ ],
+ "933MHz": [
+  "value"
+ ],
+ "96 ohm": [
+  "value"
+ ],
+ "96M": [
+  "value"
+ ],
+ "9X": [
+  "value"
+ ],
+ "A new Boot Option will be created according to this Boot URI.": [
+  "help"
+ ],
+ "A+A Support Enable": [
+  "help"
+ ],
+ "AB Clock Gating": [
+  "label"
+ ],
+ "ABL Console Out Boot Mode Select": [
+  "label"
+ ],
+ "ABL Console Out Control": [
+  "label"
+ ],
+ "ABL PMU message Control": [
+  "label"
+ ],
+ "ABL Version": [
+  "label"
+ ],
+ "AC Better Battery Limit": [
+  "label"
+ ],
+ "AC Better Performance Limit": [
+  "label"
+ ],
+ "AC Maximum Performance Limit": [
+  "label"
+ ],
+ "ACP CLock Gating": [
+  "label"
+ ],
+ "ACP Power Gating": [
+  "label"
+ ],
+ "ACPI Settings": [
+  "label",
+  "title"
+ ],
+ "ACPI Sleep State": [
+  "label"
+ ],
+ "ACPI _CST C1 Declaration": [
+  "label"
+ ],
+ "AGESA Version": [
+  "label"
+ ],
+ "AHCI": [
+  "value"
+ ],
+ "AHCI as ID 0x7904": [
+  "value"
+ ],
+ "AHCI as ID 7804": [
+  "value"
+ ],
+ "ALL": [
+  "value"
+ ],
+ "ALS Support": [
+  "label"
+ ],
+ "ALT Mode": [
+  "value"
+ ],
+ "AMD CBS": [
+  "label",
+  "title"
+ ],
+ "AMD CBS Setup Page": [
+  "help"
+ ],
+ "AMD CPU fTPM": [
+  "value"
+ ],
+ "AMD DPTC interface": [
+  "label"
+ ],
+ "AMD Firmware Version": [
+  "label",
+  "title"
+ ],
+ "AMD KVM Mouse Protocol": [
+  "label"
+ ],
+ "AMD Overclocking": [
+  "label",
+  "title"
+ ],
+ "AMD Overclocking Option": [
+  "title"
+ ],
+ "AMD Overclocking Setup Page": [
+  "help"
+ ],
+ "AMD PBS": [
+  "title"
+ ],
+ "AMD PBS Option": [
+  "title"
+ ],
+ "AMD PBS Setup Page": [
+  "help"
+ ],
+ "AMD Reference Code Version :": [
+  "label"
+ ],
+ "AMD fTPM Settings": [
+  "help"
+ ],
+ "AMD fTPM configuration": [
+  "label",
+  "title"
+ ],
+ "AMD fTPM switch": [
+  "label"
+ ],
+ "AMI Graphic Output Protocol Policy": [
+  "label",
+  "title"
+ ],
+ "AMI Oem Load default support": [
+  "label"
+ ],
+ "APCB Version": [
+  "label"
+ ],
+ "APOB Version": [
+  "label"
+ ],
+ "APU Mode": [
+  "value"
+ ],
+ "APU Only": [
+  "value"
+ ],
+ "APU Only sPPT Limit": [
+  "label"
+ ],
+ "APU Only sPPT Limit in mW": [
+  "help"
+ ],
+ "APU SMBUS0": [
+  "value"
+ ],
+ "APU+dGPU": [
+  "value"
+ ],
+ "ARI Forwarding Enable for each downstream port": [
+  "help"
+ ],
+ "ASPM Mode Control(Device0)": [
+  "label"
+ ],
+ "ASPM Mode Control(Device1)": [
+  "label"
+ ],
+ "ASPM Mode Control(Device2)": [
+  "label"
+ ],
+ "ASPM Mode Control(Device3)": [
+  "label"
+ ],
+ "ASPM Mode Control(Device4)": [
+  "label"
+ ],
+ "ASPM Mode Control(Device5)": [
+  "label"
+ ],
+ "ASPM Mode Control(Device6)": [
+  "label"
+ ],
+ "ASPM Mode Control(Device7)": [
+  "label"
+ ],
+ "ASUS EZ Flash 3 Utility": [
+  "label"
+ ],
+ "ASUS USB Charger+ in battery mode": [
+  "label"
+ ],
+ "ATCS Function 9 Support": [
+  "label"
+ ],
+ "Above 4G Decoding": [
+  "label"
+ ],
+ "Above 4GB MMIO Limit": [
+  "label"
+ ],
+ "Absolute": [
+  "value"
+ ],
+ "Ac Loss Control": [
+  "label"
+ ],
+ "Ac Power Loss Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "AcDcSwitch": [
+  "label"
+ ],
+ "Accept": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Accepted": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Access Level": [
+  "label"
+ ],
+ "Active": [
+  "value"
+ ],
+ "Active PCR banks": [
+  "label"
+ ],
+ "Active when creating an Array using free capacity; selects physical disks for the Array.": [
+  "help"
+ ],
+ "Active when creating an Array using unconfigured capacity; selects physical disks for the Array.": [
+  "help"
+ ],
+ "Add Hot Spare Physical Disk": [
+  "label"
+ ],
+ "Add New Boot Option": [
+  "label",
+  "title"
+ ],
+ "Add VLAN": [
+  "label"
+ ],
+ "Add a new EFI boot option to the boot order": [
+  "help"
+ ],
+ "Add boot option": [
+  "label"
+ ],
+ "AddrCmdDrvStren": [
+  "label"
+ ],
+ "AddrCmdSetup": [
+  "label"
+ ],
+ "Address Hash Bank": [
+  "label"
+ ],
+ "Address Hash CS": [
+  "label"
+ ],
+ "Address Hash Rm": [
+  "label"
+ ],
+ "Adjust": [
+  "value"
+ ],
+ "Adjust CPU core count by toggling active cores or SMT.": [
+  "help"
+ ],
+ "Adjust MEM VDDIO Value": [
+  "label"
+ ],
+ "Adjust MEM VDDIO, stepping is 5mV. VddIo = 1.2V +/- N * 5 mV, input rang is 0-127.": [
+  "help"
+ ],
+ "Adjust peak current from your motherboard’s CPU core VRM phases in electrically-limited scenarios. Adjustable up to the limit supported by your motherboard.": [
+  "help"
+ ],
+ "Adjust peak current from your motherboard’s CPU core VRM phases in thermally-limited scenarios. Adjustable up to the limit supported by your motherboard.": [
+  "help"
+ ],
+ "Adjust peak current from your motherboard’s SoC/uncore VRM phases in electrically-limited scenarios. Adjustable up to the limit supported by your motherboard.": [
+  "help"
+ ],
+ "Adjust peak current from your motherboard’s SoC/uncore VRM phases in thermally-limited scenarios. Adjustable up to the limit supported by your motherboard.": [
+  "help"
+ ],
+ "Adjust total CPU socket power delivery capability. Adjustable up to the limit supported by your motherboard.": [
+  "help"
+ ],
+ "Administrator": [
+  "value"
+ ],
+ "Administrator Password": [
+  "label"
+ ],
+ "Administrator Password Status": [
+  "label"
+ ],
+ "Advanced": [
+  "label",
+  "title",
+  "value"
+ ],
+ "Advanced Configuration": [
+  "label",
+  "title"
+ ],
+ "After PCI Enumeration": [
+  "value"
+ ],
+ "Aggresive SATA Device Sleep Port 0": [
+  "label"
+ ],
+ "Aggresive SATA Device Sleep Port 1": [
+  "label"
+ ],
+ "Aggressive Link PM Capability": [
+  "label"
+ ],
+ "Aggressor Channel": [
+  "label"
+ ],
+ "Aggressor Static Lane Control": [
+  "label"
+ ],
+ "Aggressor Static Lane Select ECC": [
+  "label"
+ ],
+ "Aggressor Static Lane Select Lower 32 Bits": [
+  "label"
+ ],
+ "Aggressor Static Lane Select Upper 32 bits": [
+  "label"
+ ],
+ "Aggressor Static Lane Value": [
+  "label"
+ ],
+ "All Banks": [
+  "value"
+ ],
+ "All Core Curve Optimizer Magnitude": [
+  "label"
+ ],
+ "All Core Curve Optimizer Sign": [
+  "label"
+ ],
+ "All Cores": [
+  "value"
+ ],
+ "All SATA Devices": [
+  "value"
+ ],
+ "Allow the image to run in Secure Boot mode.\r\nEnroll SHA256 Hash certificate of a PE image into Authorized Signature Database (db)": [
+  "help"
+ ],
+ "Allows deleting of Arrays": [
+  "help"
+ ],
+ "Allows for disabling memory channel interleaving.": [
+  "help"
+ ],
+ "Allows the user to decrease the maximum allowed processor temperature (celsius).": [
+  "help"
+ ],
+ "Allows the user to shift the Voltage / Frequency (AVFS) curve to include higher voltages (positive values) or lower voltages (negative values). The larger the value entered the larger the magnitude of the voltage shift": [
+  "help"
+ ],
+ "Allows the user to specify the size of the Array to be created. A value of 0 will be reset to the maximum supported Array size when a valid configuration has been selected.": [
+  "help"
+ ],
+ "Alpine Ridge": [
+  "value"
+ ],
+ "Always": [
+  "value"
+ ],
+ "Always Off": [
+  "value"
+ ],
+ "Always On": [
+  "value"
+ ],
+ "AmdAcTimer": [
+  "label"
+ ],
+ "AmdAcTimer Setting.": [
+  "help"
+ ],
+ "AmdDcTimer": [
+  "label"
+ ],
+ "AmdDcTimer Setting.": [
+  "help"
+ ],
+ "AmiSetupNvlock": [
+  "label",
+  "title"
+ ],
+ "AmiSetupNvlock Settings": [
+  "help"
+ ],
+ "An invalid number of disks were selected for the chosen RAID level": [
+  "label"
+ ],
+ "Apply Changes": [
+  "label"
+ ],
+ "Are you sure you want to continue with this operation?": [
+  "label"
+ ],
+ "Are you sure you want to delete the selected Array(s)?": [
+  "label"
+ ],
+ "ArmouryCrate Control Interface Support": [
+  "label"
+ ],
+ "Array Capacity:": [
+  "label"
+ ],
+ "Array Count:": [
+  "label"
+ ],
+ "Array ID:": [
+  "label"
+ ],
+ "Array Management": [
+  "label",
+  "title"
+ ],
+ "Array Policies:": [
+  "label"
+ ],
+ "Array Properties:": [
+  "label"
+ ],
+ "Array Size Unit:": [
+  "label"
+ ],
+ "Array Size:": [
+  "label"
+ ],
+ "Array Status:": [
+  "label"
+ ],
+ "Array(s):": [
+  "label"
+ ],
+ "Assign Global Hot Spare": [
+  "label"
+ ],
+ "Assign Thunderbolt Resource Before/After PCI Enumeration": [
+  "help"
+ ],
+ "Assigning Hot Spares will cause the data on the associated Physical Disks to be permanently deleted.": [
+  "label"
+ ],
+ "Assigns a dedicated hot spare to the selected Array.": [
+  "help"
+ ],
+ "Assigns disk as a Global Hot Spare": [
+  "help"
+ ],
+ "Associated Array(s):": [
+  "label"
+ ],
+ "Associated Physical Disks:": [
+  "label"
+ ],
+ "Asus NvRAM": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Asus Nvram DEBUG mode": [
+  "label"
+ ],
+ "Asus Nvram Force Garbage Collection mode": [
+  "help"
+ ],
+ "Asus Nvram Garbage Collection mode": [
+  "label"
+ ],
+ "Asus Nvram use strict mode": [
+  "label"
+ ],
+ "AsusStyleMarket": [
+  "help",
+  "label"
+ ],
+ "Attempts to Launch EFI Shell application (Shell.efi) from one of the available filesystem devices.": [
+  "help"
+ ],
+ "Audio Configuration": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Audio IOs": [
+  "label"
+ ],
+ "Audio IOs control": [
+  "help"
+ ],
+ "Audit": [
+  "value"
+ ],
+ "Auto": [
+  "value"
+ ],
+ "Auto = Use the default STT controller settings\r\nManual = User can set customized STT controller settings": [
+  "help"
+ ],
+ "Auto = Use the default fan controller settings\r\nManual = User can set customized fan controller settings": [
+  "help"
+ ],
+ "Auto = Use the default fan table\r\nManual = User can set customized fan table": [
+  "help"
+ ],
+ "Auto will result in all banks being enabled. Per bank enables refreshes to be sent on a per bank basis.": [
+  "help"
+ ],
+ "Auto(Ver2.0+Low speed)": [
+  "value"
+ ],
+ "Available PCR banks": [
+  "label"
+ ],
+ "Available Space:": [
+  "label"
+ ],
+ "Azalia": [
+  "value"
+ ],
+ "Azalia  and  SoundWire": [
+  "value"
+ ],
+ "Azalia and I2SBT": [
+  "value"
+ ],
+ "Azalia mHDA": [
+  "value"
+ ],
+ "BIOS Information": [
+  "label"
+ ],
+ "BIOS Vendor": [
+  "label"
+ ],
+ "BIOS reaction on INT19 trapping by Option ROM: IMMEDIATE - execute the trap right away; POSTPONED - execute the trap during legacy boot.": [
+  "help"
+ ],
+ "BLINK LED": [
+  "label"
+ ],
+ "BME DMA Mitigation": [
+  "label"
+ ],
+ "BOTH": [
+  "value"
+ ],
+ "Balanced": [
+  "value"
+ ],
+ "BankGroupSwap": [
+  "label"
+ ],
+ "Basic Mode": [
+  "value"
+ ],
+ "Be used to update BIOS.": [
+  "help"
+ ],
+ "Bios boot logo select": [
+  "label"
+ ],
+ "Bios other osb select": [
+  "label"
+ ],
+ "Bluetooth": [
+  "label"
+ ],
+ "Boot": [
+  "label",
+  "title"
+ ],
+ "Boot Configuration": [
+  "label"
+ ],
+ "Boot Option #%d": [
+  "label"
+ ],
+ "Boot Option Priorities": [
+  "label"
+ ],
+ "Boot Override": [
+  "label"
+ ],
+ "Boot URI": [
+  "label"
+ ],
+ "Boot option File Path": [
+  "label"
+ ],
+ "Boot option filter": [
+  "label"
+ ],
+ "Bootup NumLock State": [
+  "label"
+ ],
+ "Both": [
+  "value"
+ ],
+ "Both disable": [
+  "value"
+ ],
+ "Build Date and Time": [
+  "label"
+ ],
+ "CAD Bus Configuration": [
+  "help",
+  "label",
+  "title"
+ ],
+ "CAD Bus Drive Strength User Controls": [
+  "label"
+ ],
+ "CAD Bus Timing User Controls": [
+  "label"
+ ],
+ "CC6 memory region encryption": [
+  "label"
+ ],
+ "CD-ROM": [
+  "value"
+ ],
+ "CMOS Camera": [
+  "label"
+ ],
+ "COLD Array Properties:": [
+  "label"
+ ],
+ "CPPC": [
+  "help",
+  "label",
+  "title"
+ ],
+ "CPPC CTRL": [
+  "label"
+ ],
+ "CPPC Control :\r\nEnable- Override, \r\nDisabled: - Set default.": [
+  "help"
+ ],
+ "CPPC Preferred Cores": [
+  "label"
+ ],
+ "CPU Boost Clock Override": [
+  "label"
+ ],
+ "CPU Common Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "CPU Configuration": [
+  "label",
+  "title"
+ ],
+ "CPU Configuration Parameters": [
+  "help"
+ ],
+ "CPU Core Count Control": [
+  "label"
+ ],
+ "CPU Frequency": [
+  "label"
+ ],
+ "CPU Mode": [
+  "value"
+ ],
+ "CPU Voltage": [
+  "label"
+ ],
+ "CRB": [
+  "value"
+ ],
+ "CRT": [
+  "value"
+ ],
+ "CRT2": [
+  "value"
+ ],
+ "CSM Configuration": [
+  "label",
+  "title"
+ ],
+ "CSM Support": [
+  "label"
+ ],
+ "CSM configuration is disabled.": [
+  "label"
+ ],
+ "CSM configuration: Enable/Disable, Option ROM execution settings, etc.": [
+  "help"
+ ],
+ "CSM16 Module Version": [
+  "help",
+  "label"
+ ],
+ "Cache Tag Size:": [
+  "label"
+ ],
+ "Can be used to disable symmetric multithreading. To re-enable SMT, a POWER CYCLE is needed after selecting the 'Auto' option. WARNING - S3 is NOT SUPPORTED on systems where SMT is disabled.": [
+  "help"
+ ],
+ "Cancel": [
+  "label"
+ ],
+ "Cancels assigning disk as a Global Hot Spare": [
+  "help"
+ ],
+ "Card Reader": [
+  "label"
+ ],
+ "Change Controller Properties": [
+  "title"
+ ],
+ "Change Dependent On Flash Part": [
+  "help"
+ ],
+ "Change Settings of the Following PCI Devices:": [
+  "label"
+ ],
+ "Channel Slot Subtitle": [
+  "help"
+ ],
+ "Charger mode (NVDC vs. BYPASS)": [
+  "label"
+ ],
+ "Check All": [
+  "label"
+ ],
+ "Chipselect Interleaving": [
+  "label"
+ ],
+ "Chipset": [
+  "label",
+  "title"
+ ],
+ "Choose Dedicated Hot Spare Disk:": [
+  "label"
+ ],
+ "Choose Physical Disks:": [
+  "label"
+ ],
+ "Choose different physical disks for the Array": [
+  "help"
+ ],
+ "Choose the system default language": [
+  "help"
+ ],
+ "CkeDrvStren": [
+  "label"
+ ],
+ "CkeSetup": [
+  "label"
+ ],
+ "Clean Fingerprint": [
+  "label"
+ ],
+ "Clean all fingerprints data in fingerprint data.": [
+  "help"
+ ],
+ "ClkDrvStren": [
+  "label"
+ ],
+ "Clock Interrupt Tag": [
+  "label"
+ ],
+ "Clock PM: CLK_REQ0": [
+  "label"
+ ],
+ "Clock PM: CLK_REQ1": [
+  "label"
+ ],
+ "Clock PM: CLK_REQ2": [
+  "label"
+ ],
+ "Clock PM: CLK_REQ3": [
+  "label"
+ ],
+ "Clock PM: CLK_REQ4": [
+  "label"
+ ],
+ "Clock PM: CLK_REQ5": [
+  "label"
+ ],
+ "Clock PM: CLK_REQ6": [
+  "label"
+ ],
+ "Closes this page and goes back to the Controller Management Menu.": [
+  "help"
+ ],
+ "Cmd2T": [
+  "label"
+ ],
+ "Coarse debug message": [
+  "value"
+ ],
+ "Combo CBS": [
+  "label"
+ ],
+ "Commit Changes and Exit": [
+  "help",
+  "label"
+ ],
+ "Common RAS": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Compatibility": [
+  "value"
+ ],
+ "Compatibility Support Module Configuration": [
+  "label"
+ ],
+ "Compatibility Support Module is not loaded": [
+  "label"
+ ],
+ "Compliancy": [
+  "label"
+ ],
+ "Configuration": [
+  "label"
+ ],
+ "Configuration Options": [
+  "title"
+ ],
+ "Configure Array Parameters:": [
+  "label"
+ ],
+ "Configure DASH TCP/IP settings": [
+  "help"
+ ],
+ "Configure DASH account settings": [
+  "help"
+ ],
+ "Configure DASH host settings": [
+  "help"
+ ],
+ "Configure DASH security settings": [
+  "help"
+ ],
+ "Configure DASH(Desktop and Mobile Architecture for System Hardware) setting. DASH is a web services-based standard that can support both in-band and out-of-band management.": [
+  "help"
+ ],
+ "Configure HTTP Boot parameters.": [
+  "help"
+ ],
+ "Configure IPv6 network parameters.": [
+  "help"
+ ],
+ "Configure a custom CPU core frequency and voltage. Disables Precision Boost and factory clockspeed limits. Power saving features for idle cores (e.g. cc6 sleep) remain active.": [
+  "help"
+ ],
+ "Configure a custom GFX frequency and voltage.": [
+  "help"
+ ],
+ "Configure network parameters.": [
+  "help"
+ ],
+ "Configure the interface manually. IP address, gateway address, and DNS server address can be configured.": [
+  "help"
+ ],
+ "Configured": [
+  "label"
+ ],
+ "Configured VLAN List": [
+  "label"
+ ],
+ "Confirm": [
+  "label"
+ ],
+ "Connected Port:": [
+  "label"
+ ],
+ "Control DF::PIEConfig[DisSyncFloodProp]\r\nDisables propagation from PIE to other DF components and eventually to SDP ports": [
+  "help"
+ ],
+ "Control DF::RedirScrubCtrl[RedirScrubMode[0]]": [
+  "help"
+ ],
+ "Control DF::RedirScrubCtrl[RedirScrubMode[1]]": [
+  "help"
+ ],
+ "Control whether or not the CC6 save/restore memory is encrypted": [
+  "help"
+ ],
+ "Controller 0": [
+  "label"
+ ],
+ "Controller 1": [
+  "label"
+ ],
+ "Controller 2": [
+  "label"
+ ],
+ "Controller 3": [
+  "label"
+ ],
+ "Controller Management": [
+  "label",
+  "title"
+ ],
+ "Controller Physical Disk Count:": [
+  "label"
+ ],
+ "Controls IO based C-state generation and DF C-states.\r\nThere is another DF Cstate option which will be synchronized with this option if DF Cstate option is auto.": [
+  "help"
+ ],
+ "Controls the execution of Legacy PXE OpROM": [
+  "help"
+ ],
+ "Controls the execution of UEFI and Legacy Storage OpROM": [
+  "help"
+ ],
+ "Controls the execution of UEFI and Legacy Video OpROM": [
+  "help"
+ ],
+ "Controls the memory interleaving size. The valid values are AUTO, 256 bytes, 512 bytes, 1 Kbytes or 2Kbytes. This determines the starting address of the interleave (bit 8, 9, 10 or 11).": [
+  "help"
+ ],
+ "Controls the number of redirect scrubs allowed at any one time (DF::RedirScrubCtrl[RedirScrubReqLmt])": [
+  "help"
+ ],
+ "Convert to Legacy Disk": [
+  "title"
+ ],
+ "Converting disk(s) deletes all existing data on the disk. Are you sure you want to proceed?": [
+  "label"
+ ],
+ "Converting the disk(s) may take 15 to 30 seconds to complete. After": [
+  "label"
+ ],
+ "Converts the selected physical disk(s) to Legacy Disk(s).": [
+  "help"
+ ],
+ "Copy NVRAM content of Secure Boot variables to files in a root folder on a file system device": [
+  "help"
+ ],
+ "Core Performance Boost": [
+  "label"
+ ],
+ "Core Version": [
+  "label"
+ ],
+ "Core Watchdog": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Core Watchdog Timer Enable": [
+  "label"
+ ],
+ "Core Watchdog Timer Interval": [
+  "label"
+ ],
+ "Core Watchdog Timer Severity": [
+  "label"
+ ],
+ "Corrected": [
+  "value"
+ ],
+ "Create": [
+  "label"
+ ],
+ "Create Array": [
+  "label",
+  "title"
+ ],
+ "Create Array with currently selected physical disks": [
+  "help"
+ ],
+ "Create a new VLAN or update existing VLAN": [
+  "help"
+ ],
+ "Create new VLAN": [
+  "label"
+ ],
+ "Create the newly formed boot option": [
+  "help"
+ ],
+ "Creates an array by selecting the RAID level, physical disks, and array parameters.": [
+  "help"
+ ],
+ "Creates the Array": [
+  "help"
+ ],
+ "Creates the newly formed boot option": [
+  "help"
+ ],
+ "Critical Temperature": [
+  "label"
+ ],
+ "Critical Temperature ['C]": [
+  "help"
+ ],
+ "CsOdtDrvStren": [
+  "label"
+ ],
+ "CsOdtSetup": [
+  "label"
+ ],
+ "Current DNS server list.": [
+  "help"
+ ],
+ "Current Status Information": [
+  "label"
+ ],
+ "Current VDDIO Value (mV)": [
+  "help",
+  "label"
+ ],
+ "Current gateway IPv6 addresses.": [
+  "help"
+ ],
+ "Current network address": [
+  "help"
+ ],
+ "Curve Optimizer": [
+  "label",
+  "title"
+ ],
+ "Custom": [
+  "value"
+ ],
+ "Custom Core Pstates": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Custom Pstate0": [
+  "label"
+ ],
+ "Customized": [
+  "value"
+ ],
+ "D3Cold Force Gen1": [
+  "label"
+ ],
+ "D3Cold Support": [
+  "label"
+ ],
+ "DAD Transmit Count": [
+  "label"
+ ],
+ "DC Battery Saver Limit": [
+  "label"
+ ],
+ "DC Better Battery Limit": [
+  "label"
+ ],
+ "DC Better Performance Limit": [
+  "label"
+ ],
+ "DC Maximum Performance Limit": [
+  "label"
+ ],
+ "DDR Frequency and Timings": [
+  "label",
+  "title"
+ ],
+ "DDR and Infinity Fabric Frequency/Timings": [
+  "label",
+  "title"
+ ],
+ "DDR4 Common Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "DF Common Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "DF Cstates": [
+  "label"
+ ],
+ "DFE Read Training": [
+  "label"
+ ],
+ "DFP1": [
+  "value"
+ ],
+ "DFP2": [
+  "value"
+ ],
+ "DFP3": [
+  "value"
+ ],
+ "DFP4": [
+  "value"
+ ],
+ "DFP5": [
+  "value"
+ ],
+ "DFP6": [
+  "value"
+ ],
+ "DFP7": [
+  "value"
+ ],
+ "DHCPv4": [
+  "label"
+ ],
+ "DIMM_A1:": [
+  "label"
+ ],
+ "DIMM_A2:": [
+  "label"
+ ],
+ "DIMM_B1:": [
+  "label"
+ ],
+ "DIMM_B2:": [
+  "label"
+ ],
+ "DMA Protection": [
+  "label"
+ ],
+ "DMAr Support": [
+  "label"
+ ],
+ "DNS": [
+  "label"
+ ],
+ "DNS addresses     :": [
+  "label"
+ ],
+ "DNS addresses can only be configured under manual policy. e.g. 2002::4. Separate the IP address with blank space to configure more than one address.": [
+  "help"
+ ],
+ "DP display": [
+  "value"
+ ],
+ "DP over USB Type-C": [
+  "value"
+ ],
+ "DP0 Select": [
+  "label"
+ ],
+ "DP0 Select only avaliable for Celadon Nova TBT/Non-TBT": [
+  "help"
+ ],
+ "DP1 Select": [
+  "label"
+ ],
+ "DP1 Select only avaliable for Celadon Nova TBT/Non-TBT": [
+  "help"
+ ],
+ "DRAM Address Command Parity Retry": [
+  "label"
+ ],
+ "DRAM Controller Configuration": [
+  "help",
+  "label",
+  "title"
+ ],
+ "DRAM ECC Enable": [
+  "label"
+ ],
+ "DRAM ECC Symbol Size": [
+  "label"
+ ],
+ "DRAM ECC Symbol Size (x4/x8) - UMC_CH::EccCtrl[EccSymbolSize]": [
+  "help"
+ ],
+ "DRAM Latency Enhance": [
+  "label"
+ ],
+ "DRAM Latency Enhance.": [
+  "help"
+ ],
+ "DRAM Maximum Activate Count": [
+  "label"
+ ],
+ "DRAM Memory Mapping": [
+  "help",
+  "label",
+  "title"
+ ],
+ "DRAM Post Package Repair": [
+  "label"
+ ],
+ "DRAM Power Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "DRAM Timing Configuration": [
+  "help",
+  "label",
+  "title"
+ ],
+ "DRAM UECC Retry": [
+  "label"
+ ],
+ "DRAM Write CRC Enable and Retry Limit": [
+  "label"
+ ],
+ "DRAM map inversion": [
+  "label"
+ ],
+ "DRAM scrub time": [
+  "label"
+ ],
+ "DT Slot Power Enable": [
+  "label"
+ ],
+ "DXIO FW Version": [
+  "label"
+ ],
+ "Data Bus Configuration": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Data Bus Configuration User Controls": [
+  "label"
+ ],
+ "Data Eye": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Data Eye Mode": [
+  "value"
+ ],
+ "Data Eye Type": [
+  "label"
+ ],
+ "Data Poisoning": [
+  "label"
+ ],
+ "Data Scramble": [
+  "label"
+ ],
+ "Data scrambling: DataScrambleEn": [
+  "help"
+ ],
+ "Debug Port Table": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Debug Port Table 2": [
+  "help",
+  "label"
+ ],
+ "Debug Port Table Configuration": [
+  "label"
+ ],
+ "Decline": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Declined": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Decrease VDDIO": [
+  "value"
+ ],
+ "Default": [
+  "value"
+ ],
+ "Default Options": [
+  "label"
+ ],
+ "Default: Loads AMD default socket power (PPT), electrically-limited VRM current (EDC), and thermally-limited VRM current (TDC) limits. Motherboard: Allows the processor to run according to increased PPT, EDC, and TDC limits defined by your motherboard. Manual: Allows the processor to ignore AMD default limits for PPT, EDC, and TDC and instead use manual values (up to the maximum capabilities of the of the motherboard).": [
+  "help"
+ ],
+ "Deferred": [
+  "value"
+ ],
+ "Delay range is 1..40 seconds, in one second increments": [
+  "help"
+ ],
+ "Delete Array": [
+  "label",
+  "title"
+ ],
+ "Delete Array(s)": [
+  "label"
+ ],
+ "Delete Boot Option": [
+  "label",
+  "title"
+ ],
+ "Delete all Secure Boot key databases from NVRAM": [
+  "help"
+ ],
+ "Deletes all existing data on the selected Disk(s) and converts them to RAID Capable Disk(s).": [
+  "help"
+ ],
+ "Deletes all existing data on the selected RAID Disk(s) and converts them to Legacy Disk(s).": [
+  "help"
+ ],
+ "Deletes the Array(s).": [
+  "help"
+ ],
+ "Deleting an Array may take up to 15 seconds. After selecting": [
+  "label"
+ ],
+ "Deleting an Array will delete all of the data available on it.": [
+  "label"
+ ],
+ "Demo Board": [
+  "label",
+  "title"
+ ],
+ "Demo Board Parameters": [
+  "help"
+ ],
+ "Deployed": [
+  "value"
+ ],
+ "Describe selected disk": [
+  "label"
+ ],
+ "Detailed debug message": [
+  "value"
+ ],
+ "Determines OpROM execution policy for devices other than Network, Storage, or Video": [
+  "help"
+ ],
+ "Determines how SATA controller(s) operate.": [
+  "help"
+ ],
+ "Determines the action taken when the system power is off and a PCI Power Management Enable wake up event occurs.": [
+  "help"
+ ],
+ "Determines the direction of the curve shift on all cores. Positive shifts the curve up to use higher voltages. Negative shifts the curve down to use lower voltages": [
+  "help"
+ ],
+ "Determines the magnitude of the curve shift to be made (entered in whole numbers) the larger the value entered the larger the magnitude of the shift": [
+  "help"
+ ],
+ "Determines whether or not to declare the C1 state to the OS.": [
+  "help"
+ ],
+ "DevSleep0 Port Number": [
+  "label"
+ ],
+ "DevSleep1 Port Number": [
+  "label"
+ ],
+ "Device Class Option ROM Dispatch Policy:": [
+  "label"
+ ],
+ "Device Group Default ROM Policy": [
+  "label"
+ ],
+ "Device Guard Ready": [
+  "label"
+ ],
+ "Device Guard ready system must not list 'Microsoft UEFI CA' Certificate in Authorized Signature database (db)": [
+  "help"
+ ],
+ "Device Information": [
+  "label"
+ ],
+ "Device Name:": [
+  "label"
+ ],
+ "Device Select": [
+  "label"
+ ],
+ "Device Type:": [
+  "label"
+ ],
+ "Device power-up delay": [
+  "label"
+ ],
+ "Device power-up delay in seconds": [
+  "label"
+ ],
+ "Device reset time-out": [
+  "label"
+ ],
+ "Device0": [
+  "label"
+ ],
+ "Device1": [
+  "label"
+ ],
+ "Device2": [
+  "label"
+ ],
+ "Device3": [
+  "label"
+ ],
+ "Device4": [
+  "label"
+ ],
+ "Device5": [
+  "label"
+ ],
+ "Device6": [
+  "label"
+ ],
+ "Device7": [
+  "label"
+ ],
+ "Dimm0: Not Present": [
+  "label"
+ ],
+ "Dimm1: Not Present": [
+  "label"
+ ],
+ "Disable": [
+  "value"
+ ],
+ "Disable - disable this Pstate\r\nCustom - customize this Pstate, applicable only if PcdOcDisable=FALSE\r\n\r\nWARNING - DAMAGE CAUSED BY USE OF YOUR AMD PROCESSOR OUTSIDE OF SPECIFICATION OR IN EXCESS OF FACTORY SETTINGS ARE NOT COVERED UNDER YOUR AMD PRODUCT WARRANTY AND MAY NOT BE COVERED BY YOUR SYSTEM MANUFACTURER'S WARRANTY.\r\nOperating your AMD processor outside of specification or in excess of factory settings, including but not limited to overclocking, may damage or shorten the life of your processor or other system components, create system instabilities (e.g., data loss and corrupted images) and in extreme cases may result in total system failure. AMD does not provide support or service for issues or damages related to use of an AMD processor outside of processor specifications or in excess of factory settings.": [
+  "help"
+ ],
+ "Disable Block Sid": [
+  "label"
+ ],
+ "Disable Burst/Postponed Refresh": [
+  "label"
+ ],
+ "Disable CPB": [
+  "help"
+ ],
+ "Disable DF sync flood propagation": [
+  "label"
+ ],
+ "Disable DF to external downstream IP SyncFloodPropagation": [
+  "label"
+ ],
+ "Disable Discrete GPU's Audio or keep its ROM strap setting": [
+  "help"
+ ],
+ "Disable Discrete GPU's USB Port or keep default setting": [
+  "help"
+ ],
+ "Disable Input/Output Interfaces to make sure the security": [
+  "help"
+ ],
+ "Disable Memory Error Injection": [
+  "label"
+ ],
+ "Disable SATA controller if there is no port connection.": [
+  "help"
+ ],
+ "Disable USB Interfaces to make sure the security.": [
+  "help"
+ ],
+ "Disable or Enable XHCI0 2.0 port 0": [
+  "help"
+ ],
+ "Disable or Enable XHCI0 2.0 port 1": [
+  "help"
+ ],
+ "Disable or Enable XHCI0 2.0 port 2": [
+  "help"
+ ],
+ "Disable or Enable XHCI0 2.0 port 3": [
+  "help"
+ ],
+ "Disable or Enable XHCI0 3.1 port 0": [
+  "help"
+ ],
+ "Disable or Enable XHCI0 3.1 port 1": [
+  "help"
+ ],
+ "Disable or Enable XHCI1 2.0 port 0": [
+  "help"
+ ],
+ "Disable or Enable XHCI1 2.0 port 1": [
+  "help"
+ ],
+ "Disable or Enable XHCI1 2.0 port 2": [
+  "help"
+ ],
+ "Disable or Enable XHCI1 2.0 port 3": [
+  "help"
+ ],
+ "Disable or Enable XHCI1 3.1 port 0": [
+  "help"
+ ],
+ "Disable or Enable XHCI1 3.1 port 1": [
+  "help"
+ ],
+ "Disable or enable OnChip SATA controller": [
+  "help"
+ ],
+ "Disable or enable Sata Disabled AHCI Prefetch Function": [
+  "help"
+ ],
+ "Disable or enable Sata RAS Support": [
+  "help"
+ ],
+ "Disabled": [
+  "value"
+ ],
+ "Disabled: Skip this page setup item, and use the default CRB setting": [
+  "help"
+ ],
+ "Disabled:Part runs with a scalar of 1X, i.e. normal operation.\r\n\r\nManual = Part runs with a scalar of customized Value.": [
+  "help"
+ ],
+ "Disables Error propagation to UMC or any downstream slaves eg. FCH. Use this to avoid reset in failure scenario": [
+  "help"
+ ],
+ "Disabling this option sets DF:DfGlobalCtrl[DisImmSyncFloodOnFatalError]\r\nEnables freezing of all DF queues on error and also forces a sync flood on HWA even if MCAs are disabled": [
+  "help"
+ ],
+ "Discard Changes": [
+  "label"
+ ],
+ "Discard Changes and Exit": [
+  "help",
+  "label"
+ ],
+ "Discard Changes and Reset": [
+  "label"
+ ],
+ "Discard Changes done so far to any of the setup options.": [
+  "help"
+ ],
+ "Discards Changes done so far to any of the setup options.": [
+  "help"
+ ],
+ "Discrete GPU BOMACO Support": [
+  "label"
+ ],
+ "Discrete GPU D3Cold HPD Support": [
+  "label"
+ ],
+ "Discrete GPU HPD Circuitry": [
+  "label"
+ ],
+ "Discrete GPU Hotplug Mode": [
+  "label"
+ ],
+ "Discrete GPU _DSM Function A": [
+  "label"
+ ],
+ "Discrete GPU _DSM Function B": [
+  "label"
+ ],
+ "Discrete GPU's AUDIO SSID/SVID": [
+  "label"
+ ],
+ "Discrete GPU's Audio": [
+  "label"
+ ],
+ "Discrete GPU's SSID/SVID": [
+  "label"
+ ],
+ "Discrete GPU's USB Port": [
+  "label"
+ ],
+ "Discrete GPU's VGA SSID/SVID": [
+  "label"
+ ],
+ "Disk Protocol:": [
+  "label"
+ ],
+ "Display": [
+  "value"
+ ],
+ "Display Class      :  Legacy": [
+  "label"
+ ],
+ "Display Class      :  UEFI": [
+  "label"
+ ],
+ "Display Port and USB": [
+  "value"
+ ],
+ "Displays Array properties and performs operations such as create, delete.": [
+  "help"
+ ],
+ "Displays all the assigned global hot spares on the RAID controller.": [
+  "help"
+ ],
+ "Displays and manages Array properties.": [
+  "help"
+ ],
+ "Displays and/or assigns additional dedicated hot spares for the Array.": [
+  "help"
+ ],
+ "Displays information of the controller.": [
+  "help"
+ ],
+ "Displays physical disk properties and performs operations such as assign/unassign hot spare.": [
+  "help"
+ ],
+ "Displays the logical arrays associated with the TIERed array": [
+  "help"
+ ],
+ "Displays the physical disk properties.": [
+  "help"
+ ],
+ "Displays the physical disks associated with the Array.": [
+  "help"
+ ],
+ "Do Thunderbolt (Boot On) Command Before/After PCI Enumeration": [
+  "help"
+ ],
+ "Do Thunderbolt (USB On) Command Before/After PCI Enumeration": [
+  "help"
+ ],
+ "Drive Strength on CAD bus signals to Auto or Manual": [
+  "help"
+ ],
+ "Driver Health": [
+  "label",
+  "title"
+ ],
+ "Driver Information": [
+  "label"
+ ],
+ "Driver Name:": [
+  "label"
+ ],
+ "Driver Option #%d": [
+  "label"
+ ],
+ "Driver Option Priorities": [
+  "label"
+ ],
+ "Driver Released Date:": [
+  "label"
+ ],
+ "Driver Version:": [
+  "label"
+ ],
+ "Dummy D3Cold": [
+  "value"
+ ],
+ "Dynamic ODT Off": [
+  "value"
+ ],
+ "Dynamic Power and Thermal Control Interface Enable/Disable": [
+  "help"
+ ],
+ "EC": [
+  "value"
+ ],
+ "EC FW Version": [
+  "label"
+ ],
+ "EC Version": [
+  "label"
+ ],
+ "ECC Configuration": [
+  "help",
+  "label",
+  "title"
+ ],
+ "ECO Mode": [
+  "help",
+  "label",
+  "title"
+ ],
+ "ECO Mode:65W Matisse is Group B: TDC=60A/EDC=90A/PPT=87.8W;45W Matisse is Group H: TDC=45A/EDC=65A/PPT=60.8W": [
+  "help"
+ ],
+ "EDC Limit": [
+  "label"
+ ],
+ "EDC Limit [A]": [
+  "label"
+ ],
+ "EDC Limit [A], Board electrically constrained current delivery capability, adjustable up to motherboard programed board EDC limit.": [
+  "help"
+ ],
+ "EDP display": [
+  "value"
+ ],
+ "EFI Driver": [
+  "value"
+ ],
+ "EHCI D3 Support": [
+  "help",
+  "label"
+ ],
+ "EHCI Hand-off": [
+  "label"
+ ],
+ "ELAN TSP Under I2C 0 Bus": [
+  "value"
+ ],
+ "ELAN TSP Under I2C 1 Bus": [
+  "value"
+ ],
+ "ELAN TSP Under I2C 2 Bus": [
+  "value"
+ ],
+ "ELAN TSP Under I2C 3 Bus": [
+  "value"
+ ],
+ "EPP Max Range": [
+  "label"
+ ],
+ "EPP Min Range": [
+  "label"
+ ],
+ "ESPI Configuration Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "ESPI Enable": [
+  "label"
+ ],
+ "EVAL CARD T-Diode Routing Select": [
+  "label"
+ ],
+ "EVAL Slot Power Enable": [
+  "label"
+ ],
+ "EXT 25MHz": [
+  "value"
+ ],
+ "Eanble HFP on SPI_CS3_L": [
+  "value"
+ ],
+ "Echoservice": [
+  "label"
+ ],
+ "Eco-Mode (45W)": [
+  "value"
+ ],
+ "Eco-Mode (65W)": [
+  "value"
+ ],
+ "Effective error threshold count = 4095(0xFFF) - <this value> (e.g. the default value of 0xFF5 results in a threshold of 10).": [
+  "help"
+ ],
+ "Eligible Physical Disk(s) for conversion:": [
+  "label"
+ ],
+ "Empty": [
+  "label",
+  "value"
+ ],
+ "Enable": [
+  "value"
+ ],
+ "Enable : Enable ConsoleOut Function for ABL\r\nDisable : Disable ConsoleOut Function for ABL\r\nAuto : Keep default behavior": [
+  "help"
+ ],
+ "Enable ACPI Auto Configuration": [
+  "label"
+ ],
+ "Enable DHCP": [
+  "help",
+  "label"
+ ],
+ "Enable DMA remap support in IVRS IVinfo Field.": [
+  "help"
+ ],
+ "Enable DMAr system protection during POST.": [
+  "help"
+ ],
+ "Enable Hibernation": [
+  "label"
+ ],
+ "Enable Integrate HD Audio controller": [
+  "help"
+ ],
+ "Enable MCA error thresholding.": [
+  "help"
+ ],
+ "Enable Serial Debug Message Under OS": [
+  "help"
+ ],
+ "Enable The Auto Clkrun Functionality": [
+  "help"
+ ],
+ "Enable Thunderbolt Force PWR": [
+  "help"
+ ],
+ "Enable Thunderbolt Support": [
+  "help"
+ ],
+ "Enable Wlan Power In S3": [
+  "value"
+ ],
+ "Enable Wlan Power In S3 And S4": [
+  "value"
+ ],
+ "Enable Wlan Power In S4": [
+  "value"
+ ],
+ "Enable or Disable ACP CLOCK Gating": [
+  "help"
+ ],
+ "Enable or Disable ACP Power Gating": [
+  "help"
+ ],
+ "Enable or Disable DBGP and DBG2 Tables": [
+  "help"
+ ],
+ "Enable or Disable DRAM  Post Package Repair.": [
+  "help"
+ ],
+ "Enable or Disable Endorsement Hierarchy": [
+  "help"
+ ],
+ "Enable or Disable Platform Hierarchy": [
+  "help"
+ ],
+ "Enable or Disable SHA-1 PCR Bank": [
+  "help"
+ ],
+ "Enable or Disable SHA256 PCR Bank": [
+  "help"
+ ],
+ "Enable or Disable SHA384 PCR Bank": [
+  "help"
+ ],
+ "Enable or Disable SHA512 PCR Bank": [
+  "help"
+ ],
+ "Enable or Disable SM3_256 PCR Bank": [
+  "help"
+ ],
+ "Enable or Disable Storage Hierarchy": [
+  "help"
+ ],
+ "Enable or Disable Wake On Voice": [
+  "help"
+ ],
+ "Enable or Disble DASH DHCP service": [
+  "help"
+ ],
+ "Enable or Disble DASH Echoservice": [
+  "help"
+ ],
+ "Enable or disable CLK_REQ0# for MXM x8 Slot J10": [
+  "help"
+ ],
+ "Enable or disable CLK_REQ1# for Onboard LAN U55": [
+  "help"
+ ],
+ "Enable or disable CLK_REQ2# for M.2 WWAN Slot J90": [
+  "help"
+ ],
+ "Enable or disable CLK_REQ3# for Thunderbolt CON1": [
+  "help"
+ ],
+ "Enable or disable CLK_REQ4# for DT x4 Slot J79": [
+  "help"
+ ],
+ "Enable or disable CLK_REQ5# for M.2 SSD Slot J19": [
+  "help"
+ ],
+ "Enable or disable CLK_REQ6# for M.2 WLAN Slot J92": [
+  "help"
+ ],
+ "Enable or disable CPU Watchdog Timer": [
+  "help"
+ ],
+ "Enable or disable CS address hashing": [
+  "help"
+ ],
+ "Enable or disable DDR power down mode": [
+  "help"
+ ],
+ "Enable or disable Ethernet controller.": [
+  "help"
+ ],
+ "Enable or disable LAN Power": [
+  "help"
+ ],
+ "Enable or disable MBIST Aggressor test": [
+  "help"
+ ],
+ "Enable or disable Memory MBIST": [
+  "help"
+ ],
+ "Enable or disable NVMe RAID mode. Please setting the 'PCIe/GFX Lanes Configuration' item according to the RAID configuration": [
+  "help"
+ ],
+ "Enable or disable Power Sensors Routing Select": [
+  "help"
+ ],
+ "Enable or disable RM address hashing": [
+  "help"
+ ],
+ "Enable or disable SPD Read Optimization, Enabled - SPD reads are skipped for Reserved fields and most of upper 256 Bytes, Disabled - read all 512 SPD Bytes": [
+  "help"
+ ],
+ "Enable or disable Titan Ridge Host Card PCIe FPB Capability": [
+  "help"
+ ],
+ "Enable or disable USB3 controller.": [
+  "help"
+ ],
+ "Enable or disable bank address hashing": [
+  "help"
+ ],
+ "Enable or disable the Wlan Power In S3/S4 state": [
+  "help"
+ ],
+ "Enable or disable the power of DT SLOT": [
+  "help"
+ ],
+ "Enable or disable the power of EVAL Slot": [
+  "help"
+ ],
+ "Enable or disable the power of FRONT CAMERA 0": [
+  "help"
+ ],
+ "Enable or disable the power of FRONT CAMERA 1": [
+  "help"
+ ],
+ "Enable or disable the power of HDD": [
+  "help"
+ ],
+ "Enable or disable the power of ODD": [
+  "help"
+ ],
+ "Enable or disable the power of SSD": [
+  "help"
+ ],
+ "Enable or disable the power of USB CAMERA": [
+  "help"
+ ],
+ "Enable or disable the power of WLAN/WIFI": [
+  "help"
+ ],
+ "Enable or disable the power of WWAN": [
+  "help"
+ ],
+ "Enable or disable the power of iSATA0": [
+  "help"
+ ],
+ "Enable or disable the power of iSATA1": [
+  "help"
+ ],
+ "Enable temperature report or STT through APML": [
+  "help"
+ ],
+ "Enable to support Non-Eval Discrete GPU that doesn't have specific EVAL_PWRGD(B30), EVAL_PRESENT#(A5)": [
+  "help"
+ ],
+ "Enable to support sending PME_Turn_Off message to Discrete GPU when going to D3Cold": [
+  "help"
+ ],
+ "Enable/Disable AB Internal Clock Gating": [
+  "help"
+ ],
+ "Enable/Disable ARI": [
+  "help"
+ ],
+ "Enable/Disable ASUS USB Charger+ When S3/S4/S5 in battery mode.": [
+  "help"
+ ],
+ "Enable/Disable ATCS Function 9 Support": [
+  "help"
+ ],
+ "Enable/Disable Armoury Crate Control Interface Support": [
+  "help"
+ ],
+ "Enable/Disable BLINK LED to identify S3/S4 state": [
+  "help"
+ ],
+ "Enable/Disable CG1_PLL Spread Spectrum": [
+  "help"
+ ],
+ "Enable/Disable CSM Support.": [
+  "help"
+ ],
+ "Enable/Disable Discrete GPU BOMACO Support": [
+  "help"
+ ],
+ "Enable/Disable Discrete GPU D3Cold HPD function": [
+  "help"
+ ],
+ "Enable/Disable Discrete GPU Display HPD Circuitry": [
+  "help"
+ ],
+ "Enable/Disable GPIO ACPI Devices Support, disable it will disable i2C and uart interface device.": [
+  "help"
+ ],
+ "Enable/Disable HybridGraphics": [
+  "help"
+ ],
+ "Enable/Disable IOMMU": [
+  "help"
+ ],
+ "Enable/Disable IPv4 HTTP boot support. If disabled, IPv4 HTTP boot support will not be available.": [
+  "help"
+ ],
+ "Enable/Disable IPv4 PXE boot support. If disabled, IPv4 PXE boot support will not be available.": [
+  "help"
+ ],
+ "Enable/Disable IPv6 HTTP boot support. If disabled, IPv6 HTTP boot support will not be available.": [
+  "help"
+ ],
+ "Enable/Disable IPv6 PXE boot support. If disabled, IPv6 PXE boot support will not be available.": [
+  "help"
+ ],
+ "Enable/Disable KBC Support under OS": [
+  "help"
+ ],
+ "Enable/Disable PCIe x8 Slot D3Cold": [
+  "help"
+ ],
+ "Enable/Disable Reduce Hardware Support. Please disable PME wakeup, when Reduce Hardware enabled.": [
+  "help"
+ ],
+ "Enable/Disable SATA Serial General Purpose Input/Output (SGPIO) 0": [
+  "help"
+ ],
+ "Enable/Disable Security Device. NOTE: Your Computer will reboot during restart in order to change State of the Device.": [
+  "help"
+ ],
+ "Enable/Disable Sensor Fusion User Mode Driver": [
+  "help"
+ ],
+ "Enable/Disable UCSI (USB Type-C Connector System Software Interface)": [
+  "help"
+ ],
+ "Enable/Disable UEFI Network Stack": [
+  "help"
+ ],
+ "Enable/Disable UEFI network Stack": [
+  "help"
+ ],
+ "Enable/Disable USB Mass Storage Driver Support.": [
+  "help"
+ ],
+ "Enable/Disable Wireless Manageability support": [
+  "help"
+ ],
+ "Enable/Disable XHCI Controller Legacy support.": [
+  "help"
+ ],
+ "Enable/Disable Zero-Power ODD Feature": [
+  "help"
+ ],
+ "Enable/Disable charger BYPASS mode.": [
+  "help"
+ ],
+ "Enable/Disable exposing of _HID(BCM2F25) in ACPI ASL code to OS": [
+  "help"
+ ],
+ "Enable/Disable exposing of _HID(CPLM3218) in ACPI ASL code to OS": [
+  "help"
+ ],
+ "Enable/Disable exposing of _HID(PNP0C50) in ACPI ASL code to OS": [
+  "help"
+ ],
+ "Enable/Disable port 0 of SATA controller 0": [
+  "help"
+ ],
+ "Enable/Disable port 0 of SATA controller 1": [
+  "help"
+ ],
+ "Enable/Disable port 1 of SATA controller 0": [
+  "help"
+ ],
+ "Enable/Disable port 1 of SATA controller 1": [
+  "help"
+ ],
+ "Enable/Disable the RunTimeVariable Protection Support": [
+  "help"
+ ],
+ "Enable/Disable/Auto, Auto used board default setting": [
+  "help"
+ ],
+ "Enable/disable AcDcSwitch.": [
+  "help"
+ ],
+ "Enable/disable CPU Virtualization": [
+  "help"
+ ],
+ "Enable/disable No-execute page protection Function": [
+  "help"
+ ],
+ "Enable/disable PFEH, cloak individual banks, and mask deferred error interrupts from each bank.": [
+  "help"
+ ],
+ "Enable/disable the generation of ACPI _PPC, _PSS, and _PCT objects.": [
+  "help"
+ ],
+ "Enable: Enable USB current resource for MS; Disable: Disable USB current resource for MS.": [
+  "help"
+ ],
+ "EnableDisable SATA Ports Auto Clock Control": [
+  "help"
+ ],
+ "Enabled": [
+  "value"
+ ],
+ "Enabled (x1) (Lane 0)": [
+  "value"
+ ],
+ "Enabled (x2) (Lane 0 + 1)": [
+  "value"
+ ],
+ "Enabled (x4)": [
+  "value"
+ ],
+ "Enabled / Disabled Serial ATA": [
+  "help"
+ ],
+ "Enabled = CPPC highest capability register of each thread will have a different value to express the AMD recommended scheduling order to OS. CPPC must be enabled for this parameter to have effect. \r\nDisabled = Does not declare AMD preferred scheduling order to OS.": [
+  "help"
+ ],
+ "Enabled/Disabled XHCI0 Port 0(XHCI/EHCI)": [
+  "help"
+ ],
+ "Enabled/Disabled XHCI0 Port 1(XHCI/EHCI)": [
+  "help"
+ ],
+ "Enabled/Disabled XHCI0 Port 2(EHCI)": [
+  "help"
+ ],
+ "Enabled/Disabled XHCI0 Port 3(EHCI)": [
+  "help"
+ ],
+ "Enabled/Disabled XHCI1 Port 0(XHCI/EHCI)": [
+  "help"
+ ],
+ "Enabled/Disabled XHCI1 Port 1(XHCI/EHCI)": [
+  "help"
+ ],
+ "Enabled/Disabled XHCI1 Port 2(EHCI)": [
+  "help"
+ ],
+ "Enabled/Disabled XHCI1 Port 3(EHCI)": [
+  "help"
+ ],
+ "Enables Legacy USB support. AUTO option disables legacy support if no USB devices are connected. DISABLE option will keep USB devices available only for EFI applications.": [
+  "help"
+ ],
+ "Enables expert users to modify\r\nSecure Boot Policy variables\r\nwithout full authentication": [
+  "help"
+ ],
+ "Enables or Disables BIOS ACPI Auto Configuration.": [
+  "help"
+ ],
+ "Enables or Disables BIOS support for security device. O.S. will not show Security Device. TCG EFI protocol and INT1A interface will not be available.": [
+  "help"
+ ],
+ "Enables or Disables Lock of Legacy Resources": [
+  "help"
+ ],
+ "Enables or Disables System ability to Hibernate (OS/S4 Sleep State). This option may not be effective with some operating systems.": [
+  "help"
+ ],
+ "Enables or disables Quiet Boot option": [
+  "help"
+ ],
+ "Enables or disables boot with initialization of a minimal set of devices required to launch active boot option. Has no effect for BBS boot options.": [
+  "help"
+ ],
+ "Enables or disables the Opcache": [
+  "help"
+ ],
+ "Enables or disables the streaming stores functionality": [
+  "help"
+ ],
+ "Enables settings that provide additional stability at extreme cold operating temperatures": [
+  "help"
+ ],
+ "Ending Address: Unknown": [
+  "label"
+ ],
+ "Endorsement Hierarchy": [
+  "label"
+ ],
+ "Enhanced Mode": [
+  "value"
+ ],
+ "Enhanced REP MOVSB/STOSB": [
+  "label"
+ ],
+ "Enroll Efi Image": [
+  "label"
+ ],
+ "Enroll Factory Defaults or load certificates from a file:\r\n 1.Public Key Certificate:\r\n  a)EFI_SIGNATURE_LIST\r\n  b)EFI_CERT_X509 (DER)\r\n  c)EFI_CERT_RSA2048 (bin)\r\n  d)EFI_CERT_SHAXXX\r\n 2.Authenticated UEFI Variable\r\n 3.EFI PE/COFF Image(SHA256)\r\nKey Source:\r\n Factory,External,Mixed": [
+  "help"
+ ],
+ "Enter Audit Mode": [
+  "label"
+ ],
+ "Enter Audit Mode workflow.\r\nTransitions from User to Audit\r\nMode will result in erasing of PK variable": [
+  "help"
+ ],
+ "Enter Configuration Menu": [
+  "label"
+ ],
+ "Enter DNS Servers in dotted-decimal notation. Example: 192.168.10.8 192.168.10.9": [
+  "help"
+ ],
+ "Enter Deployed Mode": [
+  "label"
+ ],
+ "Enter Gateway in dotted-decimal notation. Example: 192.168.10.1": [
+  "help"
+ ],
+ "Enter IP address in dotted-decimal notation. Example: 192.168.10.12": [
+  "help"
+ ],
+ "Enter NetMask in dotted-decimal notation. Example: 255.255.255.0": [
+  "help"
+ ],
+ "Enter the path to the boot option in the format fsx:\\path\\filename.efi": [
+  "help"
+ ],
+ "Erase fTPM NV for factory reset": [
+  "label"
+ ],
+ "Executes physical disk operations.": [
+  "help"
+ ],
+ "Exit Deployed Mode": [
+  "label"
+ ],
+ "Exit system setup after saving the changes.": [
+  "help"
+ ],
+ "Exit system setup without saving any changes.": [
+  "help"
+ ],
+ "Export Secure Boot variables": [
+  "label"
+ ],
+ "Expose MSI capability in HPET Capbility register": [
+  "help"
+ ],
+ "Ext Graphics (PEG)": [
+  "value"
+ ],
+ "External Ports": [
+  "label"
+ ],
+ "EzMode NVMe Configuration (Debug)": [
+  "label"
+ ],
+ "FCH Common Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "FCLK Frequency": [
+  "label"
+ ],
+ "FFE Write Training": [
+  "label"
+ ],
+ "Factory Key Provision": [
+  "label"
+ ],
+ "False": [
+  "value"
+ ],
+ "Fan Control": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Fan Polarity": [
+  "label"
+ ],
+ "Fan Table Control": [
+  "label"
+ ],
+ "Fast Boot": [
+  "label"
+ ],
+ "Fast PPT Limit": [
+  "label"
+ ],
+ "Fast Read": [
+  "value"
+ ],
+ "Fast Short REP MOVSB": [
+  "label"
+ ],
+ "Fatal": [
+  "value"
+ ],
+ "File path for newly created boot option": [
+  "help"
+ ],
+ "Finger Print": [
+  "label"
+ ],
+ "Firmware Build Time:": [
+  "label"
+ ],
+ "Firmware Properties:": [
+  "label"
+ ],
+ "Firmware Version:": [
+  "label"
+ ],
+ "Firmware completion message only": [
+  "value"
+ ],
+ "Floppy": [
+  "value"
+ ],
+ "For Multi Connector Display Priority": [
+  "help"
+ ],
+ "For NVIDIA mobile DGPU card only. Output DGPU_EN# A19 pin and DGPU_SEL# B17 pin to high at every power on state.": [
+  "help"
+ ],
+ "Force": [
+  "value"
+ ],
+ "Force BIOS": [
+  "value"
+ ],
+ "Force Discrete GPU to Gen1 before entering D3Cold (before sending PME_Turn_Off message)": [
+  "help"
+ ],
+ "Force HDMI signals route over USB Type C port": [
+  "help"
+ ],
+ "Force PWM": [
+  "label"
+ ],
+ "Force PWM Control": [
+  "label"
+ ],
+ "Force System to User Mode.\r\nInstall factory default Secure Boot key databases": [
+  "help"
+ ],
+ "Forced FDD": [
+  "value"
+ ],
+ "Forces CPU SoC/uncore components (e.g. Infinity Fabric, memory, and integrated graphics) to run at their maximum specified frequency at all times. May improve performance at the expense of idle power savings.": [
+  "help",
+  "label"
+ ],
+ "Freeze DF module queues on error": [
+  "label"
+ ],
+ "From a workaround for GCC/C000005 issue for XV Core on CZ A0, setting MSRC001_1029 Decode Configuration (DE_CFG) bit 14 [DecfgNoRdrctForReturns] to 1": [
+  "help"
+ ],
+ "Front Camera 0 Enable": [
+  "label"
+ ],
+ "Front Camera 1 Enable": [
+  "label"
+ ],
+ "Full Initial": [
+  "value"
+ ],
+ "Full Size": [
+  "value"
+ ],
+ "GFX Clock Frequency": [
+  "label"
+ ],
+ "GFX Configuration": [
+  "help",
+  "label",
+  "title"
+ ],
+ "GFX Voltage": [
+  "label"
+ ],
+ "GO2SX Command": [
+  "value"
+ ],
+ "GO2SX_NO_WAKE Command": [
+  "value"
+ ],
+ "GOP Driver Version": [
+  "label"
+ ],
+ "GOP Version": [
+  "label"
+ ],
+ "GPIO 11 Output High": [
+  "value"
+ ],
+ "GPIO 11 Output Low": [
+  "value"
+ ],
+ "GPIO Devices Support": [
+  "label"
+ ],
+ "GPP Serial Debug Bus Enable": [
+  "help",
+  "label"
+ ],
+ "GPP8/9 Select": [
+  "label"
+ ],
+ "GPU Boost Clock Override": [
+  "label"
+ ],
+ "GPU Host Translation Cache": [
+  "label"
+ ],
+ "Gaming": [
+  "value"
+ ],
+ "Gaming Mode": [
+  "label",
+  "title"
+ ],
+ "Gaming-TUF": [
+  "value"
+ ],
+ "GateA20 Active": [
+  "label"
+ ],
+ "Gateway": [
+  "label"
+ ],
+ "Gateway IP address can only be configured under manual policy. e.g. 2002::3. Separate the IP address with blank space to configure more than one address.": [
+  "help"
+ ],
+ "Gateway addresses :": [
+  "label"
+ ],
+ "Gear Down Mode": [
+  "label"
+ ],
+ "Generic Mode": [
+  "label"
+ ],
+ "Get driver information and configure Realtek ethernet controller parameter": [
+  "help"
+ ],
+ "Global C-state Control": [
+  "label"
+ ],
+ "Globally Enables or Disables 64bit capable Devices to be Decoded in Above 4G Address Space (Only if System Supports 64 bit PCI Decoding).": [
+  "help"
+ ],
+ "Gnb Hd Audio": [
+  "label"
+ ],
+ "HDD": [
+  "value"
+ ],
+ "HDD Connection Order": [
+  "label"
+ ],
+ "HDD Power Enable": [
+  "label"
+ ],
+ "HDMI display": [
+  "value"
+ ],
+ "HDMI over USB Type-C": [
+  "value"
+ ],
+ "HDMI over USB-C0": [
+  "label"
+ ],
+ "HDMI over USB-C1": [
+  "label"
+ ],
+ "HDT BreakPoint for Boot": [
+  "label"
+ ],
+ "HDT BreakPoint for Boot Enable/Disable": [
+  "help"
+ ],
+ "HFP Enable": [
+  "label"
+ ],
+ "HFP Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "HOT Array Properties:": [
+  "label"
+ ],
+ "HPET Function Switch": [
+  "help"
+ ],
+ "HPET In SB": [
+  "label"
+ ],
+ "HTTP Boot Configuration": [
+  "title"
+ ],
+ "Half Size": [
+  "value"
+ ],
+ "Hard Disk": [
+  "value"
+ ],
+ "Hi-Z": [
+  "value"
+ ],
+ "Hidden:": [
+  "label"
+ ],
+ "High Impedance": [
+  "value"
+ ],
+ "High Pwm": [
+  "label"
+ ],
+ "High Pwm [0-100]": [
+  "help"
+ ],
+ "High Temperature": [
+  "label"
+ ],
+ "High Temperature ['C]": [
+  "help"
+ ],
+ "Host Configuration": [
+  "label",
+  "title"
+ ],
+ "Host Name": [
+  "label"
+ ],
+ "Host addresses    :": [
+  "label"
+ ],
+ "Hot Spare:": [
+  "label"
+ ],
+ "Hotplug Basic": [
+  "value"
+ ],
+ "Hotplug Enhanced": [
+  "value"
+ ],
+ "Hotplug Inboard": [
+  "value"
+ ],
+ "Hotplug Mode Control(Device0)": [
+  "label"
+ ],
+ "Hotplug Mode Control(Device1)": [
+  "label"
+ ],
+ "Hotplug Mode Control(Device2)": [
+  "label"
+ ],
+ "Hotplug Mode Control(Device3)": [
+  "label"
+ ],
+ "Hotplug Mode Control(Device4)": [
+  "label"
+ ],
+ "Hotplug Mode Control(Device5)": [
+  "label"
+ ],
+ "Hotplug Mode Control(Device6)": [
+  "label"
+ ],
+ "Hotplug Mode Control(Device7)": [
+  "label"
+ ],
+ "Hotplug Server": [
+  "value"
+ ],
+ "HybridGraphics": [
+  "value"
+ ],
+ "I/O Interface Security": [
+  "label",
+  "title"
+ ],
+ "I2C 0 D3 Support": [
+  "help",
+  "label"
+ ],
+ "I2C 0 Enable": [
+  "help",
+  "label"
+ ],
+ "I2C 1 D3 Support": [
+  "help",
+  "label"
+ ],
+ "I2C 1 Enable": [
+  "help",
+  "label"
+ ],
+ "I2C 2 D3 Support": [
+  "help",
+  "label"
+ ],
+ "I2C 2 Enable": [
+  "help",
+  "label"
+ ],
+ "I2C 3 D3 Support": [
+  "help",
+  "label"
+ ],
+ "I2C 3 Enable": [
+  "help",
+  "label"
+ ],
+ "I2C 4 D3 Support": [
+  "help",
+  "label"
+ ],
+ "I2C 5 D3 Support": [
+  "help",
+  "label"
+ ],
+ "I2C Configuration Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "I2STDM and I2SBT": [
+  "value"
+ ],
+ "IDE Configuration": [
+  "help",
+  "label",
+  "title"
+ ],
+ "IGD - AmdGop Bootup Brightness Level": [
+  "label"
+ ],
+ "IGD - AmdGop Output Priority": [
+  "label"
+ ],
+ "INSTALLED": [
+  "value"
+ ],
+ "INT 100MHz": [
+  "value"
+ ],
+ "INT 48MHz": [
+  "value"
+ ],
+ "INT19 Trap Response": [
+  "label"
+ ],
+ "IOMMU": [
+  "label"
+ ],
+ "IPv4": [
+  "value"
+ ],
+ "IPv4 HTTP Support": [
+  "label"
+ ],
+ "IPv4 Network Configuration": [
+  "title"
+ ],
+ "IPv6": [
+  "value"
+ ],
+ "IPv6 Current Setting": [
+  "title"
+ ],
+ "IPv6 HTTP Support": [
+  "label"
+ ],
+ "IPv6 Network Configuration": [
+  "title"
+ ],
+ "IR Config": [
+  "label"
+ ],
+ "If Auto, only install Legacy OpRom with Legacy OS and logo would NOT be shown during post. Efi driver will still be installed with EFI OS.": [
+  "help"
+ ],
+ "If Disabled, NVMe device will be skipped.": [
+  "help"
+ ],
+ "If Disabled, NetWork Stack Driver will be skipped.": [
+  "help"
+ ],
+ "If Disabled, PS2 devices will be skipped.": [
+  "help"
+ ],
+ "If Disabled, all USB devices will NOT be available until after OS boot. If Partial Initial, USB Mass Storage and specific USB port/device will NOT be available before OS boot. If Enabled, all USB devices will be available in OS and Post.": [
+  "help"
+ ],
+ "If Last Boot SATA Devices Only, Only last boot SATA device will be available in Post. If All SATA Devices, all SATA devices will be available in OS and Post.": [
+  "help"
+ ],
+ "If Locked, 2nd SATA HDD will be disabled.": [
+  "help"
+ ],
+ "If Locked, Card Reader/1394 will be disabled.": [
+  "help"
+ ],
+ "If Locked, HD AUDIO will be disabled.": [
+  "help"
+ ],
+ "If Locked, LAN Network will be disabled.": [
+  "help"
+ ],
+ "If Locked, LTE will be disabled.": [
+  "help"
+ ],
+ "If Locked, SATA ODD will be disabled.": [
+  "help"
+ ],
+ "If Locked, Smart Card will be disabled.": [
+  "help"
+ ],
+ "If Locked, USB Bluetooth will be disabled.": [
+  "help"
+ ],
+ "If Locked, USB CMOS Camera will be disabled.": [
+  "help"
+ ],
+ "If Locked, USB Card Reader will be disabled.": [
+  "help"
+ ],
+ "If Locked, USB External Ports will be disabled.": [
+  "help"
+ ],
+ "If Locked, USB Finger Print will be disabled.": [
+  "help"
+ ],
+ "If Locked, Wireless Network and BlueTooth will be disabled.": [
+  "help"
+ ],
+ "If Locked, Wireless Network will be disabled.": [
+  "help"
+ ],
+ "If Locked, all USB device will be disabled.": [
+  "help"
+ ],
+ "If ONLY the Administrator's password is set,": [
+  "label"
+ ],
+ "If ONLY the Administrator's password is set,then this only limits access to Setup": [
+  "label"
+ ],
+ "If ONLY the User's password is set, then this": [
+  "label"
+ ],
+ "If ONLY the User's password is set, then this is a power on password and must be": [
+  "label"
+ ],
+ "If UclkDiv1Mode==1, UCLK==MEMCLK\r\nif UclkDiv1Mode==0, UCLK==MEMCLK/2": [
+  "help"
+ ],
+ "If any physical disks are in Legacy state, please initialize those physical disks to be able to create RAID arrays.": [
+  "label"
+ ],
+ "If disable, Redirection function will be disabled.": [
+  "help"
+ ],
+ "If software will detect that due to the Policy settings, Option ROM of Primary Video Device will not dispatch, it will ignore this device policy settings, and restore it to 'Enable' automatically.": [
+  "help"
+ ],
+ "If system fails to boot and this option is set to 'Enabled', software will reset settings of this page as well as CSM page to its default values automatically.": [
+  "help"
+ ],
+ "If system has Resizable BAR capable PCIe Devices, this option Enables or Disables Resizable BAR Support(Only if System Supports 64 bit PCI Decoding).": [
+  "help"
+ ],
+ "If system has SR-IOV capable PCIe Devices, this option Enables or Disables Single Root IO Virtualization Support.": [
+  "help"
+ ],
+ "Immediate": [
+  "value"
+ ],
+ "Increase VDDIO": [
+  "value"
+ ],
+ "Increases the maximum CPU frequency that may be automatically achieved by the CPU boost algorithm": [
+  "help"
+ ],
+ "Increases the maximum CPU frequency that may be automatically achieved by the Precision Boost 2 algorithm.": [
+  "help"
+ ],
+ "Increases the maximum GPU frequency that may be automatically achieved by the GPU boost algorithm": [
+  "help"
+ ],
+ "Increases the maximum GPU frequency that may be automatically achieved by the GPU boost algorithm.": [
+  "help"
+ ],
+ "Indicate whether network address configured successfully or not.": [
+  "help"
+ ],
+ "Indicates Whether Host Bus Adapter (HBA) Can Support A Port Multiplier": [
+  "help"
+ ],
+ "Indicates Whether Host Bus Adapter (HBA) Can Support Auto-Generating Link Requests To The Partial Or Slumber States When There Are No Commands To Process": [
+  "help"
+ ],
+ "Indicates Whether SATA Host Bus Adapter (HBA) Can Support Command Completion Coalescing": [
+  "help"
+ ],
+ "Indicates Whether SATA Host Bus Adapter (HBA) Can Support Port Multiplier FIS-Based Switching": [
+  "help"
+ ],
+ "Indicates Whether SATA Host Bus Adapter (HBA) Can Support Transitions To The Partial State": [
+  "help"
+ ],
+ "Indicates Whether SATA Host Bus Adapter (HBA) Can Support Transitions To The Slumber State": [
+  "help"
+ ],
+ "Indicates Whether SATA Target Support 8 Devices Function": [
+  "help"
+ ],
+ "Infinite": [
+  "value"
+ ],
+ "Infinity Fabric Frequency and Dividers": [
+  "label",
+  "title"
+ ],
+ "Infinity Fabric frequency (FCLK) is automatically synchronized 1:1 with memory frequency (MCLK) for best performance": [
+  "help"
+ ],
+ "Infrared (IR) Configuration": [
+  "help"
+ ],
+ "Initialize Disk": [
+  "label"
+ ],
+ "Initialize Disk(s)": [
+  "title"
+ ],
+ "Initializes physical disks to be eligible for use when creating RAID arrays.": [
+  "help"
+ ],
+ "Initializes the selected Disk(s).": [
+  "help"
+ ],
+ "Input the description": [
+  "label"
+ ],
+ "Install factory default Secure Boot keys after the platform reset and while the System is in Setup mode": [
+  "help"
+ ],
+ "Int Graphics (IGD)": [
+  "value"
+ ],
+ "Intel(R) HD Graphics": [
+  "label"
+ ],
+ "Interface ID": [
+  "label"
+ ],
+ "Interface Name    :": [
+  "label"
+ ],
+ "Interface Type    :": [
+  "label"
+ ],
+ "Interleave memory blocks across the DRAM chip selects for node 0.": [
+  "help"
+ ],
+ "Internet Protocol": [
+  "label"
+ ],
+ "Inverting the map will cause the highest memory channels to get assigned the lowest addresses in the system.": [
+  "help"
+ ],
+ "Ipv4 PXE Support": [
+  "label"
+ ],
+ "Ipv6 PXE Support": [
+  "label"
+ ],
+ "KBC Support": [
+  "label"
+ ],
+ "KVM Engine Version": [
+  "label"
+ ],
+ "Keep": [
+  "value"
+ ],
+ "Keep Current": [
+  "value"
+ ],
+ "Keep Default Setting": [
+  "value"
+ ],
+ "Keep ROM Strap Setting": [
+  "value"
+ ],
+ "Keep Wlan Power In S3/S4 state": [
+  "label"
+ ],
+ "Key Management": [
+  "label",
+  "title"
+ ],
+ "L0s And L1 Entry": [
+  "value"
+ ],
+ "L0s Entry": [
+  "value"
+ ],
+ "L1 Entry": [
+  "value"
+ ],
+ "L1 Stream HW Prefetcher": [
+  "label"
+ ],
+ "L2 Stream HW Prefetcher": [
+  "label"
+ ],
+ "LAN Network Interface": [
+  "label"
+ ],
+ "LAN Power Enable": [
+  "label"
+ ],
+ "LCD": [
+  "value"
+ ],
+ "LN2 Mode": [
+  "label",
+  "title"
+ ],
+ "LPC Clock Run control": [
+  "label"
+ ],
+ "LPC Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "LPDDR4 Refresh Mode": [
+  "label"
+ ],
+ "LTE": [
+  "label"
+ ],
+ "Last Boot SATA Devices Only": [
+  "value"
+ ],
+ "Last State": [
+  "value"
+ ],
+ "Launch EFI Shell from filesystem device": [
+  "label"
+ ],
+ "Launch PXE OpROM policy": [
+  "label"
+ ],
+ "Lcd Only, Range 0 - 255": [
+  "help"
+ ],
+ "Leaves disk as a Global Hot Spare": [
+  "help"
+ ],
+ "Legacy": [
+  "value"
+ ],
+ "Legacy IDE": [
+  "value"
+ ],
+ "Legacy Mode": [
+  "value"
+ ],
+ "Legacy OROM Version:": [
+  "label"
+ ],
+ "Legacy USB Support": [
+  "label"
+ ],
+ "Legacy only": [
+  "value"
+ ],
+ "Legacy/Native/RTD3": [
+  "label"
+ ],
+ "Legal Disclaimer": [
+  "help"
+ ],
+ "Limitation: 1. Once user set the Gaming Mode as Enable, the CCD control option will not work any more; 2. if user want to use the CCD control under AOD, make sure set Gaming Mode as Disable": [
+  "help"
+ ],
+ "Local APIC Mode": [
+  "label"
+ ],
+ "Local DNS Servers": [
+  "label"
+ ],
+ "Local Gateway": [
+  "label"
+ ],
+ "Local IP Address": [
+  "label"
+ ],
+ "Local NetMask": [
+  "label"
+ ],
+ "Lock": [
+  "value"
+ ],
+ "Lock Legacy Resources": [
+  "label"
+ ],
+ "Low Pwm": [
+  "label"
+ ],
+ "Low Pwm [0-100]": [
+  "help"
+ ],
+ "Low Temperature": [
+  "label"
+ ],
+ "Low Temperature ['C]": [
+  "help"
+ ],
+ "MAC Address": [
+  "label"
+ ],
+ "MAC Address:": [
+  "label"
+ ],
+ "MAC address       :": [
+  "label"
+ ],
+ "MACO-PWR Timing   (us)": [
+  "label"
+ ],
+ "MACO-PWR Timing: MACO_EN assert to PWR_EN deassert": [
+  "help"
+ ],
+ "MB (MegaBytes)": [
+  "value"
+ ],
+ "MBIST Aggressors": [
+  "label"
+ ],
+ "MBIST Enable": [
+  "label"
+ ],
+ "MBIST Per Bit Slave Die Reporting": [
+  "label"
+ ],
+ "MBIST Test Mode": [
+  "label"
+ ],
+ "MCA error thresh count": [
+  "label"
+ ],
+ "MCA error thresh enable": [
+  "label"
+ ],
+ "MITT Only": [
+  "value"
+ ],
+ "MITT/WITT Selection": [
+  "help",
+  "label"
+ ],
+ "MP2 FW Selection": [
+  "label"
+ ],
+ "MP2 FW Version": [
+  "label"
+ ],
+ "MP2_SFH": [
+  "value"
+ ],
+ "MP2_WalleLite": [
+  "value"
+ ],
+ "MS Resource": [
+  "label"
+ ],
+ "Main": [
+  "label",
+  "title"
+ ],
+ "Manage Array Properties": [
+  "label",
+  "title"
+ ],
+ "Manage Dedicated Hot Spares": [
+  "label",
+  "title"
+ ],
+ "Manages controller properties.": [
+  "help"
+ ],
+ "Manual": [
+  "value"
+ ],
+ "Manual CPU Overclocking": [
+  "label",
+  "title"
+ ],
+ "Manual IP address can only be configured under manual policy. Separate the IP address with blank space to configure more than one address. e.g. 2002::1/64 2002::2/64": [
+  "help"
+ ],
+ "Manual iGPU Overclocking": [
+  "label",
+  "title"
+ ],
+ "Manually": [
+  "value"
+ ],
+ "Mark The Periodic Timer Interrupt": [
+  "help"
+ ],
+ "Mass Storage Class :  Legacy": [
+  "label"
+ ],
+ "Mass Storage Class :  UEFI": [
+  "label"
+ ],
+ "Mass Storage Devices:": [
+  "label"
+ ],
+ "Mass storage device emulation type. 'AUTO' enumerates devices according to their media format. Optical drives are emulated as 'CDROM', drives with no media will be emulated according to a drive type.": [
+  "help"
+ ],
+ "Max CPU Boost Clock Override": [
+  "label"
+ ],
+ "Max GPU Boost Clock Override": [
+  "label"
+ ],
+ "Max Parity Error Replay": [
+  "label"
+ ],
+ "Max Write CRC Error Replay": [
+  "label"
+ ],
+ "Maximum length": [
+  "label"
+ ],
+ "Maximum number of spares currently assigned.": [
+  "label"
+ ],
+ "Maximum time the device will take before it properly reports itself to the Host Controller. 'Auto' uses default value: for a Root port it is 100 ms, for a Hub port the delay is taken from Hub descriptor.": [
+  "help"
+ ],
+ "Media detect count": [
+  "label"
+ ],
+ "Medium Pwm": [
+  "label"
+ ],
+ "Medium Pwm [0-100]": [
+  "help"
+ ],
+ "Medium Temperature": [
+  "label"
+ ],
+ "Medium Temperature ['C]": [
+  "help"
+ ],
+ "Memory Addressing": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Memory Clear": [
+  "label"
+ ],
+ "Memory Clock Speed": [
+  "label"
+ ],
+ "Memory Configuration": [
+  "label",
+  "title"
+ ],
+ "Memory Configuration Parameters.": [
+  "help"
+ ],
+ "Memory Information": [
+  "label"
+ ],
+ "Memory MBIST": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Memory Overclock Settings": [
+  "help"
+ ],
+ "Memory interleaving": [
+  "label"
+ ],
+ "Memory interleaving size": [
+  "label"
+ ],
+ "Microcode Not loaded": [
+  "label"
+ ],
+ "Minimum length": [
+  "label"
+ ],
+ "Model Name:": [
+  "label"
+ ],
+ "Model Number:": [
+  "label"
+ ],
+ "Modern Standby + S0i2": [
+  "value"
+ ],
+ "Modern Standby + S0i2 + S0i3": [
+  "value"
+ ],
+ "Modern Standby + S0i3": [
+  "value"
+ ],
+ "Modern Standby Enable": [
+  "value"
+ ],
+ "Modern Standby Type": [
+  "label"
+ ],
+ "Modified": [
+  "value"
+ ],
+ "Modify password": [
+  "label"
+ ],
+ "Modify username": [
+  "label"
+ ],
+ "Motherboard": [
+  "value"
+ ],
+ "MsiDis in HPET": [
+  "label"
+ ],
+ "N/A": [
+  "label",
+  "value"
+ ],
+ "N/A, reset required": [
+  "value"
+ ],
+ "NB Azalia": [
+  "label"
+ ],
+ "NB Root Port ASPM Mode Control": [
+  "help"
+ ],
+ "NB Root Port Hotplug Mode Control": [
+  "help"
+ ],
+ "NBIO Common Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "NO": [
+  "label"
+ ],
+ "NO Security Device Found": [
+  "label"
+ ],
+ "NOT INSTALLED": [
+  "value"
+ ],
+ "NPS0": [
+  "value"
+ ],
+ "NPS1": [
+  "value"
+ ],
+ "NPS2": [
+  "value"
+ ],
+ "NPS4": [
+  "value"
+ ],
+ "NUMA nodes per socket": [
+  "label",
+  "title"
+ ],
+ "NVDIMM": [
+  "help",
+  "label",
+  "title"
+ ],
+ "NVIDIA DGPU Power Enable": [
+  "label"
+ ],
+ "NVMe Configuration": [
+  "label",
+  "title"
+ ],
+ "NVMe Device Options Settings": [
+  "help"
+ ],
+ "NVMe RAID mode": [
+  "label"
+ ],
+ "NVMe Support": [
+  "label"
+ ],
+ "NVMe controller and Drive information": [
+  "label"
+ ],
+ "NVMe controller and Drive information.": [
+  "help"
+ ],
+ "NX Mode": [
+  "label"
+ ],
+ "Native + RTD3Cold": [
+  "value"
+ ],
+ "Native + RTD3Hot": [
+  "value"
+ ],
+ "Native IDE": [
+  "value"
+ ],
+ "Native IDE /n RAID /n AHCI /n AHCI /n Legacy IDE /n IDE->AHCI /n HyperFlash": [
+  "help"
+ ],
+ "Native Mode": [
+  "value"
+ ],
+ "Native USB Type-C": [
+  "value"
+ ],
+ "Nb": [
+  "value"
+ ],
+ "Nb AIO": [
+  "value"
+ ],
+ "Nb Adol": [
+  "value"
+ ],
+ "Nb REdol": [
+  "value"
+ ],
+ "Negative": [
+  "value"
+ ],
+ "Negotiated Physical Disk Transfer Speed:": [
+  "label"
+ ],
+ "Network Class      :  Legacy": [
+  "label"
+ ],
+ "Network Class      :  UEFI": [
+  "label"
+ ],
+ "Network Stack": [
+  "label"
+ ],
+ "Network Stack Configuration": [
+  "label",
+  "title"
+ ],
+ "Network Stack Driver Support": [
+  "label"
+ ],
+ "Network Stack Settings": [
+  "help"
+ ],
+ "New DNS addresses": [
+  "label"
+ ],
+ "New Gateway addresses": [
+  "label"
+ ],
+ "New IPv6 address": [
+  "label"
+ ],
+ "Nfc Support": [
+  "label"
+ ],
+ "No": [
+  "label"
+ ],
+ "No Cache": [
+  "value"
+ ],
+ "No Error": [
+  "value"
+ ],
+ "No Global Hot Spare Physical Disks were detected": [
+  "label"
+ ],
+ "No NVME Device Found": [
+  "label"
+ ],
+ "No Security": [
+  "value"
+ ],
+ "No help string": [
+  "help"
+ ],
+ "Node 0 Information": [
+  "label",
+  "title"
+ ],
+ "Non-Eval Discrete GPU Support": [
+  "label"
+ ],
+ "None": [
+  "help",
+  "value"
+ ],
+ "Normal": [
+  "value"
+ ],
+ "Normal Operation": [
+  "value"
+ ],
+ "Normal boot only": [
+  "value"
+ ],
+ "North Bridge": [
+  "label",
+  "title"
+ ],
+ "North Bridge Configuration": [
+  "label"
+ ],
+ "North Bridge Parameters": [
+  "help"
+ ],
+ "Not Active": [
+  "value"
+ ],
+ "Not Present": [
+  "value"
+ ],
+ "Number of seconds to wait for setup activation key. 65535(0xFFFF) means indefinite waiting.": [
+  "help"
+ ],
+ "Number of times the presence of media will be checked. Use either +/- or numeric keys to set the value.": [
+  "help"
+ ],
+ "Nvme Size": [
+  "label"
+ ],
+ "OC Mode": [
+  "label"
+ ],
+ "OC1": [
+  "value"
+ ],
+ "OC2": [
+  "value"
+ ],
+ "OC3": [
+  "value"
+ ],
+ "ODD Power Enable": [
+  "label"
+ ],
+ "OK": [
+  "label"
+ ],
+ "OOBip": [
+  "label"
+ ],
+ "OR Circuitry": [
+  "value"
+ ],
+ "Off": [
+  "value"
+ ],
+ "On": [
+  "value"
+ ],
+ "OnChip SATA Channel": [
+  "label"
+ ],
+ "OnChip SATA Type": [
+  "label"
+ ],
+ "Onboard PCIE LAN PXE ROM": [
+  "label"
+ ],
+ "Onboard Voltage Controls": [
+  "help",
+  "label",
+  "title"
+ ],
+ "One or more Legacy disks have been detected in the system. Only initialized physical disks can be used in a RAID configuration. Please select the Legacy Physical Disk(s) you would like to convert to RAID Capable Disk(s) from the list below.": [
+  "label"
+ ],
+ "Opcache Control": [
+  "label"
+ ],
+ "Opcache grayout flag": [
+  "label"
+ ],
+ "Operating your AMD processor outside of specification or in excess of factory settings, including but not limited to overclocking, may damage or shorten the life of your processor or other system components, create system instabilities (e.g., data loss and corrupted images) and in extreme cases may result in total system failure. AMD does not provide support or service for issues or damages related to use of an AMD processor outside of processor specifications or in excess of factory settings.": [
+  "label"
+ ],
+ "Option ROM Dispatch Policy": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Option ROM Messages": [
+  "label"
+ ],
+ "Option ROM execution": [
+  "label"
+ ],
+ "Option to Enable | Disable L1 Stream HW Prefetcher": [
+  "help"
+ ],
+ "Option to Enable | Disable L2 Stream HW Prefetcher": [
+  "help"
+ ],
+ "Option to disable GPU Host Translation Cache": [
+  "help"
+ ],
+ "Options For I2C Configuration": [
+  "help"
+ ],
+ "Options For SATA  DEBUG Configuration": [
+  "help"
+ ],
+ "Options For SATA Configuration": [
+  "help"
+ ],
+ "Options For SB DEBUG Configuration": [
+  "help"
+ ],
+ "Options For SB Debug Features": [
+  "help"
+ ],
+ "Options For SB FUSION DEBUG Configuration": [
+  "help"
+ ],
+ "Options For SB Power Saving": [
+  "help"
+ ],
+ "Options For SB USB Configuration": [
+  "help"
+ ],
+ "Options For SD": [
+  "help"
+ ],
+ "Options For UART Configuration": [
+  "help"
+ ],
+ "Options for adjust DDR memory frequency and timings.": [
+  "help"
+ ],
+ "Options for adjusting memory frequencies and timings, as well as Infinity Fabric frequency and dividers.": [
+  "help"
+ ],
+ "Other Devices      :  Legacy": [
+  "label"
+ ],
+ "Other Devices      :  UEFI": [
+  "label"
+ ],
+ "Other PCI devices": [
+  "label"
+ ],
+ "Output Interface": [
+  "help"
+ ],
+ "Output Select": [
+  "label"
+ ],
+ "Overclock": [
+  "label"
+ ],
+ "Override DIMM SPD Byte 7 [3:0] Maximum Activate Count (MAC)\r\nAuto: based on SPD setting": [
+  "help"
+ ],
+ "Override to allow SID authentication in TCG Storage device": [
+  "help"
+ ],
+ "Overrides the AMD default silicon health management to potentially achieve higher sustained frequencies under CPU load.": [
+  "help"
+ ],
+ "Overriding": [
+  "label",
+  "title"
+ ],
+ "Overwrite Discrete GPU's AUDIO SSID/SVID. Default value 0 means depends on HybridGraphics setting.": [
+  "help"
+ ],
+ "Overwrite Discrete GPU's VGA SSID/SVID. Default value 0 means depends on HybridGraphics setting.": [
+  "help"
+ ],
+ "PBO Limits": [
+  "label"
+ ],
+ "PCI Device Settings": [
+  "title"
+ ],
+ "PCI Express GEN 1 Settings": [
+  "label",
+  "title"
+ ],
+ "PCI Express GEN 2 Settings": [
+  "label",
+  "title"
+ ],
+ "PCI Hot-Plug Settings": [
+  "label",
+  "title"
+ ],
+ "PCI ID:": [
+  "label"
+ ],
+ "PCI Settings Common for all Devices:": [
+  "label"
+ ],
+ "PCI Slot:": [
+  "label"
+ ],
+ "PCI Subsystem Settings": [
+  "help",
+  "label",
+  "title"
+ ],
+ "PCI-E Port": [
+  "label",
+  "title"
+ ],
+ "PCI-E Port Parameters": [
+  "help"
+ ],
+ "PCI-SIG ECN _DSM Function A for Discrete GPU's GPP bridge.": [
+  "help"
+ ],
+ "PCI-SIG ECN _DSM Function B for Discrete GPU's GPP bridge.": [
+  "help"
+ ],
+ "PCIB Clock Run": [
+  "label"
+ ],
+ "PCIE": [
+  "value"
+ ],
+ "PCIE DT SLOT": [
+  "value"
+ ],
+ "PCIE TBT SLOT": [
+  "value"
+ ],
+ "PCIE X8 SLOT": [
+  "value"
+ ],
+ "PCIe ARI Enumeration": [
+  "label"
+ ],
+ "PCIe ARI Support": [
+  "label"
+ ],
+ "PCIe NativePcieSupport - Debug function.": [
+  "help"
+ ],
+ "PDM Mic Selection": [
+  "help",
+  "label"
+ ],
+ "PME Turn Off Support": [
+  "label"
+ ],
+ "PMU Training": [
+  "help",
+  "label",
+  "title"
+ ],
+ "PPC Adjustment": [
+  "label"
+ ],
+ "PPIN Opt-in": [
+  "label"
+ ],
+ "PPT Limit": [
+  "label"
+ ],
+ "PPT Limit [W]": [
+  "label"
+ ],
+ "PPT Limit [W], Board Socket Power capability, adjustable up to motherboard programed PPT limit.": [
+  "help"
+ ],
+ "PRBS": [
+  "value"
+ ],
+ "PROCEED WITH CAUTION.": [
+  "label"
+ ],
+ "PS2 Devices Support": [
+  "label"
+ ],
+ "PSP BootLoader Version": [
+  "label"
+ ],
+ "PSP SecureOS Version": [
+  "label"
+ ],
+ "PSPP Policy": [
+  "label"
+ ],
+ "PSS Support": [
+  "label"
+ ],
+ "PState 0": [
+  "value"
+ ],
+ "PState 1": [
+  "value"
+ ],
+ "PState 2": [
+  "value"
+ ],
+ "PState 3": [
+  "value"
+ ],
+ "PState 4": [
+  "value"
+ ],
+ "PState 5": [
+  "value"
+ ],
+ "PState 6": [
+  "value"
+ ],
+ "PState 7": [
+  "value"
+ ],
+ "PWROFF-RST Timing (ms)": [
+  "label"
+ ],
+ "PWROFF-RST Timing: PWR_EN deassert to PERSTb assert": [
+  "help"
+ ],
+ "PWRON-RST Timing  (ms)": [
+  "label"
+ ],
+ "PWRON-RST Timing: PWR_EN assert to PERSTb deassert": [
+  "help"
+ ],
+ "PXE boot wait time": [
+  "label"
+ ],
+ "Partial Initial": [
+  "value"
+ ],
+ "Password Description": [
+  "label"
+ ],
+ "Patent Information": [
+  "label"
+ ],
+ "Path for boot option": [
+  "label"
+ ],
+ "Pattern Length": [
+  "label"
+ ],
+ "Pattern Select": [
+  "label"
+ ],
+ "PcdMsgSetFastPPTLimit": [
+  "help"
+ ],
+ "PcdMsgSetSlowPPTLimit": [
+  "help"
+ ],
+ "PcdMsgSetSustainedPowerLimit": [
+  "help"
+ ],
+ "Pcie Port Control": [
+  "label"
+ ],
+ "Pending operation": [
+  "label"
+ ],
+ "Per Bank": [
+  "value"
+ ],
+ "Per Chip Select": [
+  "value"
+ ],
+ "Per Core": [
+  "value"
+ ],
+ "Per Nibble": [
+  "value"
+ ],
+ "Perf Limit Max Range": [
+  "label"
+ ],
+ "Perf Limit Min Range": [
+  "label"
+ ],
+ "Perform 2D Read Training with DFE on.": [
+  "help"
+ ],
+ "Perform 2D Write Training with FFE on.": [
+  "help"
+ ],
+ "Performance": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Performs a rescan of all physical disks and arrays connected to this controller.": [
+  "help"
+ ],
+ "Phy Configuration": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Physical Disk  0: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk  1: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk  2: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk  3: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk  4: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk  5: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk  6: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk  7: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk  8: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk  9: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk 10: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk 11: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk 12: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk 13: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk 14: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk 15: XX: SATA, Size, Ready": [
+  "label",
+  "value"
+ ],
+ "Physical Disk ID:": [
+  "label"
+ ],
+ "Physical Disk Management": [
+  "label",
+  "title"
+ ],
+ "Physical Disk Properties:": [
+  "label"
+ ],
+ "Physical Disk(s):": [
+  "label"
+ ],
+ "Physical Presence Spec Version": [
+  "label"
+ ],
+ "Platform First Error Handling": [
+  "label"
+ ],
+ "Platform Hierarchy": [
+  "label"
+ ],
+ "Platform Mode": [
+  "label"
+ ],
+ "Platform Thermal Throttle Limit": [
+  "label"
+ ],
+ "Please select the initialized disk(s) you would like to convert to Legacy Disk(s) from the list below.": [
+  "label"
+ ],
+ "Poison scrubber control": [
+  "label"
+ ],
+ "Policy": [
+  "label"
+ ],
+ "Port Multiplier Capability": [
+  "label"
+ ],
+ "Positive": [
+  "value"
+ ],
+ "Postponed": [
+  "value"
+ ],
+ "Power Down Enable": [
+  "label"
+ ],
+ "Power Off": [
+  "value"
+ ],
+ "Power Off Energy Saving": [
+  "label"
+ ],
+ "Power On": [
+  "value"
+ ],
+ "Power Sensors Routing Select": [
+  "label"
+ ],
+ "Power limit adjustment percent for [Battery Saver] on DC: 0 - 100": [
+  "help"
+ ],
+ "Power limit adjustment percent for [Better Battery] on AC: 0 - 100": [
+  "help"
+ ],
+ "Power limit adjustment percent for [Better Battery] on DC: 0 - 100": [
+  "help"
+ ],
+ "Power limit adjustment percent for [Better Performance] on AC: 0 - 100": [
+  "help"
+ ],
+ "Power limit adjustment percent for [Better Performance] on DC: 0 - 100": [
+  "help"
+ ],
+ "Power limit adjustment percent for [Maximum Performance] on AC: 0 - 100": [
+  "help"
+ ],
+ "Power limit adjustment percent for [Maximum Performance] on DC: 0 - 100": [
+  "help"
+ ],
+ "Precision Boost Overdrive": [
+  "label",
+  "title"
+ ],
+ "Precision Boost Overdrive Scalar": [
+  "label"
+ ],
+ "Precision Boost Overdrive increases the maximum boost voltage used (runs above parts specified maximum) and the amount of time spent at that voltage. The larger the value entered the larger the boost voltage used and the longer that voltage will be maintained.": [
+  "help"
+ ],
+ "Precision Boost Overdrive:\r\n  Disabled: stock board values for standard IRM\r\n  Enabled: Loads board limits for EDC, TDC and PPT.\r\n  Manual: manual setting of PPT, TDC and EDC": [
+  "help"
+ ],
+ "Precision Boost Overdrive:\r\n  Enabled: Allows Processor to run beyond defined values for PPT, VDD_CPU EDC, VDD_CPU TDC, VDD_SOC EDC, VDD_SOC TDC to the limits of the board, and allows it to boost at higher voltages for longer durations than default operation.": [
+  "help"
+ ],
+ "Prefetcher settings": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Press ENTER to enter configuration menu for IPv6 configuration.": [
+  "help"
+ ],
+ "Press ENTER to enter configuration menu for VLAN configuration.": [
+  "help"
+ ],
+ "Previous": [
+  "value"
+ ],
+ "Primary Video Adaptor": [
+  "label"
+ ],
+ "Primary Video Ignore": [
+  "label"
+ ],
+ "Priority": [
+  "label"
+ ],
+ "Priority1": [
+  "label"
+ ],
+ "Priority2": [
+  "label"
+ ],
+ "Priority3": [
+  "label"
+ ],
+ "Priority4": [
+  "label"
+ ],
+ "Priority5": [
+  "label"
+ ],
+ "Priority6": [
+  "label"
+ ],
+ "ProcODT": [
+  "label"
+ ],
+ "Processor Information": [
+  "label"
+ ],
+ "Program Discrete GPU's SSID/SVID depends on HybridGraphics setting": [
+  "help"
+ ],
+ "Program by Vendor": [
+  "value"
+ ],
+ "Programming SubUrgRefLowerBound = 1 and UrgRefLimit = 1 will disable burst/postponed refresh": [
+  "help"
+ ],
+ "Project Version": [
+  "label"
+ ],
+ "Provide a value that is the number of hours to scrub memory.": [
+  "help"
+ ],
+ "Provide to adjust _PPC object.": [
+  "help"
+ ],
+ "Provides Health Status for the Drivers/Controllers": [
+  "help"
+ ],
+ "Pstate0 Freq (MHz)": [
+  "label"
+ ],
+ "Pstate0 VID": [
+  "label"
+ ],
+ "Pulse Circuitry": [
+  "value"
+ ],
+ "Pwm Frequency": [
+  "label"
+ ],
+ "Qual IO 1-1-2": [
+  "value"
+ ],
+ "Qual IO 1-1-4": [
+  "value"
+ ],
+ "Qual IO 1-2-2": [
+  "value"
+ ],
+ "Qual IO 1-4-4": [
+  "value"
+ ],
+ "Quiet Boot": [
+  "label"
+ ],
+ "RAID": [
+  "value"
+ ],
+ "RAID 0": [
+  "value"
+ ],
+ "RAID 1": [
+  "value"
+ ],
+ "RAID 10": [
+  "value"
+ ],
+ "RAID 5": [
+  "value"
+ ],
+ "RAID 6": [
+  "value"
+ ],
+ "RAID Level:": [
+  "label"
+ ],
+ "RAID Or RAID5": [
+  "help"
+ ],
+ "RAID Type": [
+  "label"
+ ],
+ "RAID5": [
+  "value"
+ ],
+ "RAIDABLE": [
+  "value"
+ ],
+ "RAIDXpert2 Configuration Utility": [
+  "title"
+ ],
+ "RCD Parity": [
+  "label"
+ ],
+ "RST-MACO Timing   (ms)": [
+  "label"
+ ],
+ "RST-MACO Timing: PERSTb deassert to MACO_EN deassert": [
+  "help"
+ ],
+ "RX & TX0 Only": [
+  "value"
+ ],
+ "RX & TX1 Only": [
+  "value"
+ ],
+ "RX, TX0, And TX1": [
+  "value"
+ ],
+ "RZQ/1": [
+  "value"
+ ],
+ "RZQ/2": [
+  "value"
+ ],
+ "RZQ/3": [
+  "value"
+ ],
+ "RZQ/4": [
+  "value"
+ ],
+ "RZQ/5": [
+  "value"
+ ],
+ "RZQ/6": [
+  "value"
+ ],
+ "RZQ/7": [
+  "value"
+ ],
+ "Range of CppcPerfLimitMax: 0 - 255": [
+  "help"
+ ],
+ "Range of CppcPerfLimitMin: 0 - 255": [
+  "help"
+ ],
+ "Range of EPP Max: 0 - 255": [
+  "help"
+ ],
+ "Range of EPP Min: 0 - 255": [
+  "help"
+ ],
+ "Re-Size BAR Support": [
+  "label"
+ ],
+ "Re-enable Bus Master Attribute disabled during Pci enumeration for PCI Bridges after SMM Locked": [
+  "help"
+ ],
+ "Read Cache": [
+  "value"
+ ],
+ "Read Cache Policy:": [
+  "label"
+ ],
+ "Read Timing Sweep Step Size": [
+  "label"
+ ],
+ "Read Voltage Sweep Step Size": [
+  "label"
+ ],
+ "RealManage Setup": [
+  "label"
+ ],
+ "Realtek Ethernet Controller": [
+  "title"
+ ],
+ "Realtek Ethernet Controller Configuration": [
+  "title"
+ ],
+ "Realtek RealManage Setup": [
+  "label",
+  "title"
+ ],
+ "Redirect scrubber control": [
+  "label"
+ ],
+ "Redirect scrubber limit": [
+  "label"
+ ],
+ "RedirectForReturnDis": [
+  "label"
+ ],
+ "Redirection Support": [
+  "label"
+ ],
+ "Reduce Hardware Support": [
+  "label"
+ ],
+ "Remove 'UEFI CA' from DB": [
+  "label"
+ ],
+ "Remove VLAN": [
+  "label"
+ ],
+ "Remove an EFI boot option from the boot order": [
+  "help"
+ ],
+ "Remove an EFI boot option from the boot order.": [
+  "help"
+ ],
+ "Remove selected VLANs": [
+  "help"
+ ],
+ "Removed Physical Disk": [
+  "label"
+ ],
+ "Removed Physical Disk, Dedicated Spare": [
+  "label"
+ ],
+ "Report onboard + eval card sensors": [
+  "value"
+ ],
+ "Report onboard sensors": [
+  "value"
+ ],
+ "Reports 2D Data Eye Results in ABL Log for each DQ, Chipselect, and Channel": [
+  "help"
+ ],
+ "Rescan Disks": [
+  "label",
+  "title"
+ ],
+ "Reserved": [
+  "value"
+ ],
+ "Reserved 1M bytes MMIO space on 1M boundary when iLA TraceMemoryEn enabled": [
+  "help"
+ ],
+ "Reset To Setup Mode": [
+  "label"
+ ],
+ "Reset system setup without saving any changes.": [
+  "help"
+ ],
+ "Reset the system after saving the changes.": [
+  "help"
+ ],
+ "Restore DB defaults": [
+  "label"
+ ],
+ "Restore DB variable to factory defaults": [
+  "help"
+ ],
+ "Restore Defaults": [
+  "label"
+ ],
+ "Restore Factory Keys": [
+  "label"
+ ],
+ "Restore On AC Power Loss": [
+  "label"
+ ],
+ "Restore Status On AC Power Loss": [
+  "help"
+ ],
+ "Restore User Defaults": [
+  "label"
+ ],
+ "Restore if Failure": [
+  "label"
+ ],
+ "Restore the User Defaults to all the setup options.": [
+  "help"
+ ],
+ "Restore/Load Default values for all the setup options.": [
+  "help"
+ ],
+ "Returns to Select Physical Disks": [
+  "help"
+ ],
+ "Revision:": [
+  "label"
+ ],
+ "Route Table       :": [
+  "label"
+ ],
+ "Route to SPI TPM": [
+  "value"
+ ],
+ "RttNom": [
+  "label"
+ ],
+ "RttPark": [
+  "label"
+ ],
+ "RttWr": [
+  "label"
+ ],
+ "Rtt_Nom Disable": [
+  "value"
+ ],
+ "Rtt_PARK Disable": [
+  "value"
+ ],
+ "Run SMART Self Test on all HDDs during POST.": [
+  "help"
+ ],
+ "RunTimeVariable Protection Support": [
+  "label"
+ ],
+ "S0I3": [
+  "label"
+ ],
+ "S0I3 flag": [
+  "help"
+ ],
+ "S3 (Suspend to RAM)": [
+  "value"
+ ],
+ "S3 Enable": [
+  "value"
+ ],
+ "S3/Modern Standby Support": [
+  "label"
+ ],
+ "S3/S0i3 only": [
+  "value"
+ ],
+ "SATA": [
+  "value"
+ ],
+ "SATA 2nd HDD Interface": [
+  "label"
+ ],
+ "SATA AHCI Enclosure": [
+  "label"
+ ],
+ "SATA AHCI Enclosure Management": [
+  "help"
+ ],
+ "SATA Auto Shutdown": [
+  "label"
+ ],
+ "SATA CLK Mode Option": [
+  "label"
+ ],
+ "SATA Command Completion Coalescing Support": [
+  "label"
+ ],
+ "SATA Configuration": [
+  "label",
+  "title"
+ ],
+ "SATA Configuration Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "SATA Controller": [
+  "label"
+ ],
+ "SATA Controller Message-Based Interrupts Capability Support": [
+  "help"
+ ],
+ "SATA D3 Support": [
+  "help",
+  "label"
+ ],
+ "SATA Devices Configuration": [
+  "help"
+ ],
+ "SATA FIS Based Switching": [
+  "label"
+ ],
+ "SATA MAXGEN2 CAP OPTION": [
+  "label"
+ ],
+ "SATA MSI Capability Support": [
+  "label"
+ ],
+ "SATA Mode": [
+  "label"
+ ],
+ "SATA Mode Selection": [
+  "label"
+ ],
+ "SATA ODD Interface": [
+  "label"
+ ],
+ "SATA Partial State Capability": [
+  "label"
+ ],
+ "SATA Ports Auto Clock Control": [
+  "label"
+ ],
+ "SATA Reference Clock Selector And Divider": [
+  "help"
+ ],
+ "SATA SGPIO 0": [
+  "label"
+ ],
+ "SATA Slumber State Capability": [
+  "label"
+ ],
+ "SATA Support": [
+  "label"
+ ],
+ "SATA Target Support 8 Devices": [
+  "label"
+ ],
+ "SATA express": [
+  "value"
+ ],
+ "SATA port number map to DEVSLP pad 0: 0-7: SATA 0; 8-15: SATA 1": [
+  "help"
+ ],
+ "SATA port number map to DEVSLP pad 1: 0-7: SATA 0 ports; 8-15: SATA 1 ports": [
+  "help"
+ ],
+ "SATA/ SATA express selection": [
+  "label"
+ ],
+ "SATA/ SATA express selection  Setting.": [
+  "help"
+ ],
+ "SATA0 port enable": [
+  "help",
+  "label",
+  "title"
+ ],
+ "SATA0 port0": [
+  "label"
+ ],
+ "SATA0 port1": [
+  "label"
+ ],
+ "SATA1 port enable": [
+  "help",
+  "label",
+  "title"
+ ],
+ "SATA1 port0": [
+  "label"
+ ],
+ "SATA1 port1": [
+  "label"
+ ],
+ "SB Clock Spread Spectrum": [
+  "label"
+ ],
+ "SB Debug Configuration": [
+  "label",
+  "title"
+ ],
+ "SB Device D3 DEBUG Configuration": [
+  "title"
+ ],
+ "SB FUSION DEBUG Configuration": [
+  "label",
+  "title"
+ ],
+ "SB I2C Configuration": [
+  "label",
+  "title"
+ ],
+ "SB IR Configuration": [
+  "title"
+ ],
+ "SB MISC DEBUG Configuration": [
+  "label",
+  "title"
+ ],
+ "SB Power Saving": [
+  "label",
+  "title"
+ ],
+ "SB SATA Configuration": [
+  "label",
+  "title"
+ ],
+ "SB SATA DEBUG Configuration": [
+  "label",
+  "title"
+ ],
+ "SB SD Configuration": [
+  "label",
+  "title"
+ ],
+ "SB SPI DEBUG Configuration": [
+  "title"
+ ],
+ "SB UART Configuration": [
+  "label",
+  "title"
+ ],
+ "SB USB Configuration": [
+  "label",
+  "title"
+ ],
+ "SD D3 Support": [
+  "help",
+  "label"
+ ],
+ "SD Mode": [
+  "label"
+ ],
+ "SD Mode Configuration": [
+  "help"
+ ],
+ "SDRAM Optional Features (tMAW, MAC). Valid value 3FFh - 0h": [
+  "help"
+ ],
+ "SEV ASID Count": [
+  "label"
+ ],
+ "SEV VMs using ASIDs below the SEV-ES ASID Space Limit must enable the SEV-ES feature. ASIDs from SEV-ES ASID Space Limit to (SEV ASID Count + 1) can only be used with SEV VMs. If this field is set to (SEV ASID Count + 1), all ASIDs are forced to be SEV-ES ASIDs. Hence, the valid values for this field is 1 - (SEV ASID Count + 1)": [
+  "help"
+ ],
+ "SEV-ES ASID Space Limit": [
+  "label"
+ ],
+ "SEV-ES ASID Space Limit Control": [
+  "label"
+ ],
+ "SHA-1 PCR Bank": [
+  "label"
+ ],
+ "SHA256 PCR Bank": [
+  "label"
+ ],
+ "SHA384 PCR Bank": [
+  "label"
+ ],
+ "SHA512 PCR Bank": [
+  "label"
+ ],
+ "SM3_256 PCR Bank": [
+  "label"
+ ],
+ "SMART Self Test": [
+  "label"
+ ],
+ "SMART Settings": [
+  "label",
+  "title"
+ ],
+ "SMART Status:": [
+  "label"
+ ],
+ "SMT Control": [
+  "label"
+ ],
+ "SMU Common Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "SMU FW Version": [
+  "label"
+ ],
+ "SMU and PSP Debug Mode": [
+  "label"
+ ],
+ "SOC EDC Limit [A]": [
+  "label"
+ ],
+ "SOC OVERCLOCK VID": [
+  "label"
+ ],
+ "SOC TDC Limit [A]": [
+  "label"
+ ],
+ "SPD Read Optimization": [
+  "label"
+ ],
+ "SPI Fast Read Speed": [
+  "label"
+ ],
+ "SPI Normal Speed": [
+  "label"
+ ],
+ "SPI Read Mode": [
+  "label"
+ ],
+ "SR-IOV Support": [
+  "label"
+ ],
+ "SSD": [
+  "value"
+ ],
+ "SSD Power Enable": [
+  "label"
+ ],
+ "SSD x1 : Test only.The item breaks WWAN,LAN,WLAN Pcie Slot": [
+  "value"
+ ],
+ "SSD x2": [
+  "value"
+ ],
+ "SSD x4": [
+  "value"
+ ],
+ "SSO": [
+  "value"
+ ],
+ "STAPM Boost": [
+  "label"
+ ],
+ "STAPM Boost Enable [1 = boost disabled; 2 = boost enabled]": [
+  "help"
+ ],
+ "STAPM Control": [
+  "help",
+  "label",
+  "title"
+ ],
+ "STT Control": [
+  "label"
+ ],
+ "STT sensor reporting": [
+  "label"
+ ],
+ "STT_ALPHA_APU": [
+  "label"
+ ],
+ "STT_ALPHA_GPU": [
+  "label"
+ ],
+ "STT_ALPHA_HS2": [
+  "label"
+ ],
+ "STT_C_APU": [
+  "label"
+ ],
+ "STT_C_GPU": [
+  "label"
+ ],
+ "STT_C_HS2": [
+  "label"
+ ],
+ "STT_ERROR_COEFF": [
+  "label"
+ ],
+ "STT_ERROR_RATE_COEFF_Copy": [
+  "label"
+ ],
+ "STT_M1": [
+  "label"
+ ],
+ "STT_M2": [
+  "label"
+ ],
+ "STT_M3": [
+  "label"
+ ],
+ "STT_M4": [
+  "label"
+ ],
+ "STT_M5": [
+  "label"
+ ],
+ "STT_M6": [
+  "label"
+ ],
+ "STT_MinLimit": [
+  "label"
+ ],
+ "STT_PCB_SENSOR_COUNT": [
+  "label"
+ ],
+ "STT_SKIN_TEMPERATURE_LIMIT_APU": [
+  "label"
+ ],
+ "STT_SKIN_TEMPERATURE_LIMIT_GPU": [
+  "label"
+ ],
+ "STT_SKIN_TEMPERATURE_LIMIT_HS2": [
+  "label"
+ ],
+ "SVM Mode": [
+  "label"
+ ],
+ "SW BreakPoint for S3": [
+  "label"
+ ],
+ "SW BreakPoint for S3 Enable/Disable": [
+  "help"
+ ],
+ "Sample Code": [
+  "help"
+ ],
+ "Sata Disable Generic Mode": [
+  "help"
+ ],
+ "Sata Disabled AHCI Prefetch Function": [
+  "label"
+ ],
+ "Sata RAS Support": [
+  "label"
+ ],
+ "Save & Exit": [
+  "label",
+  "title"
+ ],
+ "Save Changes": [
+  "label"
+ ],
+ "Save Changes and Exit": [
+  "help",
+  "label"
+ ],
+ "Save Changes and Reset": [
+  "label"
+ ],
+ "Save Changes done so far to any of the setup options.": [
+  "help"
+ ],
+ "Save Changes for interface ID, DAD transmit count, policy, and data in advanced configuration.": [
+  "help"
+ ],
+ "Save Options": [
+  "label"
+ ],
+ "Save RealManage Configuration": [
+  "label"
+ ],
+ "Save RealManage Configuration to NvRam": [
+  "help"
+ ],
+ "Save as User Defaults": [
+  "label"
+ ],
+ "Save the changes done so far as User Defaults.": [
+  "help"
+ ],
+ "Schedule an Operation for the Security Device. NOTE: Your Computer will reboot during restart in order to change State of Security Device.": [
+  "help"
+ ],
+ "Scrubber": [
+  "help",
+  "label",
+  "title"
+ ],
+ "SdDump": [
+  "value"
+ ],
+ "Secure Boot": [
+  "label",
+  "title"
+ ],
+ "Secure Boot Configuration": [
+  "help"
+ ],
+ "Secure Boot Control": [
+  "label"
+ ],
+ "Secure Boot Mode": [
+  "label"
+ ],
+ "Secure Boot configuration": [
+  "help"
+ ],
+ "Secure Boot feature is Active if Secure Boot is Enabled,\r\nPlatform Key(PK) is enrolled and the System is in User mode.\r\nThe mode change requires platform reset": [
+  "help"
+ ],
+ "Secure Boot mode options:\r\nStandard or Custom.\r\nIn Custom mode, Secure Boot Policy variables can be configured by a physically present user without full authentication": [
+  "help"
+ ],
+ "Secure Boot variable |  Size| Keys#| Key Source": [
+  "label"
+ ],
+ "Secure Boot variable | Size| Keys| Key Source": [
+  "label"
+ ],
+ "Secure Connect": [
+  "value"
+ ],
+ "Security": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Security Configuration": [
+  "label",
+  "title"
+ ],
+ "Security Device Support": [
+  "label"
+ ],
+ "Segment:Bus:Device:Function": [
+  "label"
+ ],
+ "Select Above 4GB MMIO Limit to 35~48bits limit.": [
+  "help"
+ ],
+ "Select Ac Loss Control Method": [
+  "help"
+ ],
+ "Select Array:": [
+  "label"
+ ],
+ "Select CacheTagSize:": [
+  "label"
+ ],
+ "Select Controller:": [
+  "label"
+ ],
+ "Select Discrete GPU Hotplug Mode - HotplugEnhanced or HotplugBasic": [
+  "help"
+ ],
+ "Select Internal/External Graphics": [
+  "help"
+ ],
+ "Select MBIST Test Mode -Interface Mode (Tests Single and Multiple CS transactions and Basic Connectivity) or Data Eye Mode (Measures Voltage vs. Timing)": [
+  "help"
+ ],
+ "Select Media Type:": [
+  "label"
+ ],
+ "Select OnChip SATA Type. Don't select RAID for Raven FP5 platform. Raven FP5 doesn't support RAID.": [
+  "help"
+ ],
+ "Select Physical Disk Operations": [
+  "label",
+  "title"
+ ],
+ "Select Physical Disk(s) to Initialize:": [
+  "label"
+ ],
+ "Select Physical Disk(s) to convert to Legacy Disk(s):": [
+  "label"
+ ],
+ "Select Physical Disk:": [
+  "label"
+ ],
+ "Select Physical Disks": [
+  "label",
+  "title"
+ ],
+ "Select RAID Level:": [
+  "label"
+ ],
+ "Select RAIDTIER Elements": [
+  "label"
+ ],
+ "Select S0I2 or S0I3 type for Modern Standby.": [
+  "help"
+ ],
+ "Select Thunderbolt Host Card Chipset Name": [
+  "help"
+ ],
+ "Select Thunderbolt Legacy/Native/RTD3 Mode": [
+  "help"
+ ],
+ "Select Thunderbolt PCIE L1SS Support": [
+  "help"
+ ],
+ "Select Thunderbolt PCIE MMIO Resource": [
+  "help"
+ ],
+ "Select Thunderbolt Security Level": [
+  "help"
+ ],
+ "Select Thunderbolt Slot": [
+  "help"
+ ],
+ "Select Thunderbolt Wake Up Command": [
+  "help"
+ ],
+ "Select between 1T and 2T mode on ADDR/CMD": [
+  "help"
+ ],
+ "Select one to Delete": [
+  "value"
+ ],
+ "Select slow (COLD) and fast (HOT) elements for RAIDTIER array.": [
+  "help"
+ ],
+ "Select the Communication Interface to TPM 20 Device.": [
+  "help"
+ ],
+ "Select the TCG2 Spec Version Support,\r\n\r\n\rTCG_1_2: the Compatible mode for Win8/Win10,\r\n\r\n\rTCG_2: Support new TCG2 protocol and event format for Win10 or later": [
+  "help"
+ ],
+ "Select the highest ACPI sleep state the system will enter when the SUSPEND button is pressed.": [
+  "help"
+ ],
+ "Select the keyboard NumLock state": [
+  "help"
+ ],
+ "Select the version of Internet Protocol.": [
+  "help"
+ ],
+ "Select to Tell O.S. to support PPI Spec Version 1.2 or 1.3. Note some HCK tests might not support 1.3.": [
+  "help"
+ ],
+ "Select to configure RAIDXpert2 controller": [
+  "help"
+ ],
+ "Select which APU eSPI port route to EC": [
+  "help"
+ ],
+ "Select which MP2 FW to load": [
+  "help"
+ ],
+ "Selected Array:": [
+  "label"
+ ],
+ "Selects a controller.": [
+  "help"
+ ],
+ "Selects a physical disk.": [
+  "help"
+ ],
+ "Selects all available physical disks for use in creating this Array.": [
+  "help"
+ ],
+ "Selects an Array.": [
+  "help"
+ ],
+ "Selects the desired RAID level. The configuration utility supports Volume, RAIDAble, RAID 0, RAID 1, and RAID 5 and RAID 10.\r\n\r\nVOLUME --  Single disk or concatenation of disks (JBOD).\r\nRAIDABLE -- RAID aware single disk for future redundancy.\r\nRAID 0 -- Uses disk striping to provide high data throughput.\r\nRAID 1 -- Uses disk mirroring to provide an exact copy for data redundancy.\r\nRAID 5 -- uses striping with parity to balance between performance and data integrity. Parity data allows the Array to be recreated in the event of a single disk failure.\r\nRAID 10 -- uses mirrored data striping to offer both performance and data redundancy.": [
+  "help"
+ ],
+ "Selects the desired read policy.  The configuration utility supports No Cache and Read Cache.\r\n\r\nRead Cache -- Read data will be pre-fetched\r\nNo Cache -- Reads will be performed only when requested": [
+  "help"
+ ],
+ "Selects the desired write policy.  The configuration utility supports No Cache and Write Back Cache.\r\n\r\nNo Cache -- Writes are done immediately\r\nWrite Back Cache -- Writes are delayed.  May result in loss of data in event of system failure!": [
+  "help"
+ ],
+ "Selects the physical disk media type.\r\n\r\nHDD - Rotational magnetic media.\r\nSSD - Solid State Disk.": [
+  "help"
+ ],
+ "Selects the units in which the Array Size is displayed. 1 MB = 1000 KBs. 1GB = 1000 MBs. 1 TB = 1000 GBs.": [
+  "help"
+ ],
+ "Sensor Fusion User Mode Driver": [
+  "label"
+ ],
+ "Serial ATA Port 0": [
+  "label"
+ ],
+ "Serial ATA Port 1": [
+  "label"
+ ],
+ "Serial ATA Port 2": [
+  "label"
+ ],
+ "Serial ATA Port 3": [
+  "label"
+ ],
+ "Serial ATA Port 4": [
+  "label"
+ ],
+ "Serial ATA Port 5": [
+  "label"
+ ],
+ "Serial Debug Message Under OS": [
+  "label"
+ ],
+ "Serial Number": [
+  "label"
+ ],
+ "Serial Number of Disk:": [
+  "label"
+ ],
+ "Serial Number:": [
+  "label"
+ ],
+ "Set Administrator Password": [
+  "help"
+ ],
+ "Set Administrator Password.": [
+  "help"
+ ],
+ "Set Infinity Fabric frequency (FCLK) Auto: FCLK = MCLK. Manual: FCLK must be ≤ MCLK for best performance in most cases. Latency penalties are incurred if FCLK and MCLK are mismatched, but sufficiently high MCLK can negate or overcome this penalty.": [
+  "help"
+ ],
+ "Set Sata Max Gen2 Mode": [
+  "help"
+ ],
+ "Set UMA FB size": [
+  "help"
+ ],
+ "Set User Password": [
+  "help"
+ ],
+ "Set User Password.": [
+  "help"
+ ],
+ "Set display mode for Option ROM": [
+  "help"
+ ],
+ "Set or change DASH DNS": [
+  "help"
+ ],
+ "Set or change DASH IP": [
+  "help"
+ ],
+ "Set or change DASH gateway": [
+  "help"
+ ],
+ "Set or change DASH host name": [
+  "help"
+ ],
+ "Set or change DASH password": [
+  "help"
+ ],
+ "Set or change DASH subnetmask": [
+  "help"
+ ],
+ "Set or change DASH username": [
+  "help"
+ ],
+ "Set the Date. Use Tab to switch between Date elements.\r\n\rDefault Ranges: \r\n\rYear: 1998-9999 \r\n\rMonths: 1-12 \r\n\rDays: Dependent on month\r\n\rRange of Years may vary.": [
+  "help"
+ ],
+ "Set the Date. Use Tab to switch between Date elements.\r\nUse [ENTER], [TAB] to select a field.\r\nUse [+] or [-] to Configure system Date.": [
+  "help"
+ ],
+ "Set the Time. Use Tab to switch between Time elements.": [
+  "help"
+ ],
+ "Set the Time. Use Tab to switch between Time elements.\r\nUse [ENTER], [TAB] to select a field.\r\nUse [+] or [-] to Configure system Time.": [
+  "help"
+ ],
+ "Set the order of the legacy devices in this group": [
+  "help"
+ ],
+ "Set the order of the legacy devices in this group.": [
+  "help"
+ ],
+ "Sets the system boot order": [
+  "help"
+ ],
+ "Sets the system driver order": [
+  "help"
+ ],
+ "Setup": [
+  "help",
+  "title",
+  "value"
+ ],
+ "Setup Prompt Timeout": [
+  "label"
+ ],
+ "Setup and Configuration": [
+  "label",
+  "title"
+ ],
+ "Setup time on CAD bus signals to Auto or Manual": [
+  "help"
+ ],
+ "Setup time on CAD bus signals. Valid values 3Fh-0h.": [
+  "help"
+ ],
+ "Show all of AMD Firmware Version": [
+  "help"
+ ],
+ "Simple": [
+  "value"
+ ],
+ "Size:": [
+  "label"
+ ],
+ "Skips the conversion and goes back to the Physical Disk Operations Menu.": [
+  "help"
+ ],
+ "Skips the convertion and goes back to the Controller Management Menu.": [
+  "help"
+ ],
+ "Slow PPT Limit": [
+  "label"
+ ],
+ "Smart Card": [
+  "label"
+ ],
+ "SmartShift Control": [
+  "help",
+  "label",
+  "title"
+ ],
+ "SmartShift Enable": [
+  "label"
+ ],
+ "SoC Voltage": [
+  "label",
+  "title"
+ ],
+ "SoC/Uncore OC Mode": [
+  "label",
+  "title"
+ ],
+ "Soc Miscellaneous Control": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Socket 0 Information": [
+  "label",
+  "title"
+ ],
+ "Some OS require HDD handles to be adjusted, i.e. OS is installed on drive 80h.": [
+  "help"
+ ],
+ "SoundWire": [
+  "value"
+ ],
+ "SoundWire and I2SBT": [
+  "value"
+ ],
+ "South Bridge": [
+  "label",
+  "title"
+ ],
+ "South Bridge Parameters": [
+  "help"
+ ],
+ "Special Display Features": [
+  "label"
+ ],
+ "Specifies Active to Active/Refresh Delay Time. Valid values 87h-1Dh.": [
+  "help"
+ ],
+ "Specifies Row Precharge Delay Time.": [
+  "help"
+ ],
+ "Specifies a custom CPU core frequency. Should be combined with a custom CPU voltage. Power saving features for idle cores (e.g. cc6 sleep) remain active.": [
+  "help"
+ ],
+ "Specifies a custom CPU core voltage (mV). Should be combined with a custom CPU core frequency. Power saving features for idle cores (e.g. cc6 sleep) remain active.": [
+  "help"
+ ],
+ "Specifies a custom GFX core frequency. Must be combined with a custom GFX voltage. Power saving features (like GFX Pstates) remain active": [
+  "help"
+ ],
+ "Specifies a custom GFX core voltage (mV). Must be combined with a custom GFX frequency. GFX voltage is derived from SOC / uncore voltage rail. Power saving features (like GFX Pstates) remain active.": [
+  "help"
+ ],
+ "Specifies core frequency (MHz)": [
+  "help"
+ ],
+ "Specifies the Activate to Activate Delay Time, different bank group (tRRD_S)": [
+  "help"
+ ],
+ "Specifies the Activate to Activate Delay Time, same bank group (tRRD_L)": [
+  "help"
+ ],
+ "Specifies the Active to Precharge Delay Time.": [
+  "help"
+ ],
+ "Specifies the CAS Write Latency": [
+  "help"
+ ],
+ "Specifies the CAS latency.": [
+  "help"
+ ],
+ "Specifies the CAS to CAS Delay Time, same bank group. Valid values 3Fh-1h": [
+  "help"
+ ],
+ "Specifies the CAS to CAS Delay Time, same bank group. Valid values Fh-1h": [
+  "help"
+ ],
+ "Specifies the CKE minimum high and low pulse width in memory clock cycles.": [
+  "help"
+ ],
+ "Specifies the Cachetag Size. This is the amount of data per disk in a stripe. Supported sizes are 64KB, 128KB, or 256KB.": [
+  "help"
+ ],
+ "Specifies the FCLK frequency.": [
+  "help"
+ ],
+ "Specifies the Four Activate Window Time. Valid values 36h-6h.": [
+  "help"
+ ],
+ "Specifies the Minimum Write Recovery Time. Valid value 51h-Ah": [
+  "help"
+ ],
+ "Specifies the Minimum Write to Read Time, different bank group": [
+  "help"
+ ],
+ "Specifies the Minimum Write to Read Time, same bank group": [
+  "help"
+ ],
+ "Specifies the Processor ODT": [
+  "help"
+ ],
+ "Specifies the RAS# Active to CAS# Read Delay Time.": [
+  "help"
+ ],
+ "Specifies the RAS# Active to CAS# Write Delay Time.": [
+  "help"
+ ],
+ "Specifies the Read CAS# to Precharge Delay Time.": [
+  "help"
+ ],
+ "Specifies the Read to Read turnaround timing in a different DIMM.": [
+  "help"
+ ],
+ "Specifies the Read to Read turnaround timing in the same DIMM.": [
+  "help"
+ ],
+ "Specifies the Read to Read turnaround timing in the same chipselect.": [
+  "help"
+ ],
+ "Specifies the Read to Write turnaround timing.": [
+  "help"
+ ],
+ "Specifies the Refresh Recovery Delay Time (tRFC1). Valid values 3DEh-3Ch": [
+  "help"
+ ],
+ "Specifies the Refresh Recovery Delay Time (tRFC2).  Valid values 3DEh-3Ch": [
+  "help"
+ ],
+ "Specifies the Refresh Recovery Delay Time (tRFC4). Valid values 3DEh-3Ch": [
+  "help"
+ ],
+ "Specifies the SoC/uncore voltage (VDD_SOC) in mV to support memory and Infinity Fabric overclocking. VDD_SOC also determines the GPU voltage on processors with integrated graphics. 'SoC/Uncore OC Mode' needs to be enabled to force this voltage.": [
+  "help"
+ ],
+ "Specifies the Voltage ID (VID) value for VDDR_SOC to support overclocking.\r\nNOTE:  This is a VID value in hex and not a voltage level and applied if DDR speed is > 2933.\r\n Voltage(V)=1.55V-Hex2Dec(VID)*0.00625V": [
+  "help"
+ ],
+ "Specifies the Write to Read turnaround timing.": [
+  "help"
+ ],
+ "Specifies the Write to Write turnaround timing in a different DIMM.": [
+  "help"
+ ],
+ "Specifies the Write to Write turnaround timing in the same DIMM.": [
+  "help"
+ ],
+ "Specifies the Write to Write turnaround timing in the same chipselect.": [
+  "help"
+ ],
+ "Specifies the core voltage.": [
+  "help"
+ ],
+ "Specifies the memory clock frequency.": [
+  "help"
+ ],
+ "Specifies the minimum sustained power that the APU power is allowed to reduce to in mWatts.": [
+  "help"
+ ],
+ "Specifies the number of desired NUMA nodes per socket.  Zero will attempt to interleave the two sockets together.": [
+  "help"
+ ],
+ "Specifies the stored refresh limit to required enter sub-urgent refresh mode\r\nConstraint: SubUrgRefLowerBound <= UrgRefLimit\r\nValid value: 6 ~ 1": [
+  "help"
+ ],
+ "Specifies the stored refresh limit to required enter urgent refresh mode\r\nConstraint: SubUrgRefLowerBound <= UrgRefLimit\r\nValid value: 6 ~ 1": [
+  "help"
+ ],
+ "Specify Tfaw": [
+  "help"
+ ],
+ "Specify Trc": [
+  "help"
+ ],
+ "Specify Trcpage": [
+  "help"
+ ],
+ "Specify TrdrdScL": [
+  "help"
+ ],
+ "Specify Trfc": [
+  "help"
+ ],
+ "Specify Trfc2": [
+  "help"
+ ],
+ "Specify Trfc4": [
+  "help"
+ ],
+ "Specify Twr": [
+  "help"
+ ],
+ "Specify TwrwrScL": [
+  "help"
+ ],
+ "Specify name for new boot option": [
+  "help"
+ ],
+ "Specify the CPU watch dog timer severity (MSRC001_0074[CpuWdTmrCfgSeverity]).": [
+  "help"
+ ],
+ "Specify the PWM to force the fan to [0-100]": [
+  "help"
+ ],
+ "Specify the mode for drive strength to Auto or Manual": [
+  "help"
+ ],
+ "Stage completion": [
+  "value"
+ ],
+ "StallForUnlock": [
+  "label"
+ ],
+ "StallForUnlock Enable/Disable": [
+  "help"
+ ],
+ "Standard": [
+  "value"
+ ],
+ "Starting Address: Unknown": [
+  "label"
+ ],
+ "State:": [
+  "label"
+ ],
+ "Static Lane Select for ECC Lanes. The bit mask represents the bits to be read": [
+  "help"
+ ],
+ "Static Lane Select for Lower 32 bit. The bit mask represents the bits to be read": [
+  "help"
+ ],
+ "Static Lane Select for Lower 32 bits. The bit mask represents the bits to be read": [
+  "help"
+ ],
+ "Static Lane Select for Upper 32 bit. The bit mask represents the bits to be read": [
+  "help"
+ ],
+ "Static Lane Select for Upper 32 bits. The bit mask represents the bits to be read": [
+  "help"
+ ],
+ "Storage": [
+  "label"
+ ],
+ "Storage Hierarchy": [
+  "label"
+ ],
+ "Streaming Stores Control": [
+  "label"
+ ],
+ "SubUrgRefLowerBound": [
+  "label"
+ ],
+ "Submits the changes made to the entire form.": [
+  "help"
+ ],
+ "Subnetmask": [
+  "label"
+ ],
+ "Suspend Disabled": [
+  "value"
+ ],
+ "Sustained PowerLimit": [
+  "label"
+ ],
+ "Switch S3/Modern Standby": [
+  "help"
+ ],
+ "Switchable Graphics": [
+  "label",
+  "title"
+ ],
+ "Switchable Graphics selections": [
+  "help"
+ ],
+ "Swtich KVM Mouse Protocol between Absolut/Simple": [
+  "help"
+ ],
+ "Sync flood disabled": [
+  "value"
+ ],
+ "Sync flood enabled": [
+  "value"
+ ],
+ "System ACPI Parameters.": [
+  "help"
+ ],
+ "System Configuration": [
+  "label"
+ ],
+ "System Configuration AM4": [
+  "label"
+ ],
+ "System Date": [
+  "label"
+ ],
+ "System Information": [
+  "label"
+ ],
+ "System Language": [
+  "label"
+ ],
+ "System Mode": [
+  "label"
+ ],
+ "System SMART Settings": [
+  "help"
+ ],
+ "System Temperature Tracking": [
+  "help",
+  "label",
+  "title"
+ ],
+ "System Temperature Tracking [0 = disabled; 1 = enabled]": [
+  "help"
+ ],
+ "System Time": [
+  "label"
+ ],
+ "TBD": [
+  "help"
+ ],
+ "TCG Storage device Security Configuration": [
+  "title"
+ ],
+ "TCG_1_2": [
+  "value"
+ ],
+ "TCG_2": [
+  "value"
+ ],
+ "TCM Active Status:": [
+  "label"
+ ],
+ "TCM Enabled Status:": [
+  "label"
+ ],
+ "TCM Owner Status:": [
+  "label"
+ ],
+ "TCM State": [
+  "label"
+ ],
+ "TCP/IP Configuration": [
+  "label",
+  "title"
+ ],
+ "TDC Limit": [
+  "label"
+ ],
+ "TDC Limit [A]": [
+  "label"
+ ],
+ "TDC Limit [A], Board thermally constrained current delivery capability, adjustable up to motherboard programed board TDC limit.": [
+  "help"
+ ],
+ "TI PD FW MODE": [
+  "label"
+ ],
+ "TI PD FW Version": [
+  "label"
+ ],
+ "TIS": [
+  "value"
+ ],
+ "TPM 1.2": [
+  "value"
+ ],
+ "TPM 1.2 will restrict support to TPM 1.2 devices, TPM 2.0 will restrict support to TPM 2.0 devices, Auto will support both with the default set to TPM 2.0 devices if not found, TPM 1.2 devices will be enumerated": [
+  "help"
+ ],
+ "TPM 2.0": [
+  "value"
+ ],
+ "TPM 2.0 Device Found": [
+  "label"
+ ],
+ "TPM 2.0 InterfaceType": [
+  "label"
+ ],
+ "TPM 2.0 UEFI Spec Version": [
+  "label"
+ ],
+ "TPM Active Status:": [
+  "label"
+ ],
+ "TPM Clear": [
+  "value"
+ ],
+ "TPM Enabled Status:": [
+  "label"
+ ],
+ "TPM Owner Status:": [
+  "label"
+ ],
+ "TPM State": [
+  "label"
+ ],
+ "TR HR FPB Capability": [
+  "label"
+ ],
+ "TSME": [
+  "label"
+ ],
+ "Target Static Lane Control": [
+  "label"
+ ],
+ "Target Static Lane Select ECC": [
+  "label"
+ ],
+ "Target Static Lane Select Lower 32 Bits": [
+  "label"
+ ],
+ "Target Static Lane Select Upper 32 bit": [
+  "label"
+ ],
+ "Target Static Lane Value": [
+  "label"
+ ],
+ "Tcke": [
+  "label"
+ ],
+ "Tcl": [
+  "label"
+ ],
+ "Tcwl": [
+  "label"
+ ],
+ "Temperature Hysteresis": [
+  "label"
+ ],
+ "Temperature Hysteresis ['C]": [
+  "help"
+ ],
+ "Tfaw": [
+  "label"
+ ],
+ "Tfaw Ctrl": [
+  "label"
+ ],
+ "The 64 bit alternative interface ID for the device. The string is colon separated. e.g. ff:dd:88:66:cc:1:2:3": [
+  "help"
+ ],
+ "The Onboard PCIE LAN PXE ROM": [
+  "help"
+ ],
+ "The PCI address of Realtek ethernet controller": [
+  "help"
+ ],
+ "The Rescan operation may take 10 to 20 seconds to complete. After": [
+  "label"
+ ],
+ "The address list which contain the local IPv6 addresses and the corresponding prefix length information.": [
+  "help"
+ ],
+ "The hardware address of the network interface.": [
+  "help"
+ ],
+ "The interface type of the network interface, defined in RFC1700.": [
+  "help"
+ ],
+ "The name of the interface.": [
+  "help"
+ ],
+ "The number of consecutive Neighbor Solicitation messages sent while performing Duplicate Address Detection on a tentative address. A value of zero indicates that Duplicate Address Detection is not performed.": [
+  "help"
+ ],
+ "The password length must be": [
+  "label"
+ ],
+ "The route table of the IPv6 network stack runs on this interface.": [
+  "help"
+ ],
+ "The time-out value for Control, Bulk, and Interrupt transfers.": [
+  "help"
+ ],
+ "There are no Arrays found in the system.": [
+  "label"
+ ],
+ "There are no RAID disks that can be converted to Legacy Disk(s)": [
+  "label"
+ ],
+ "There are no disks available to be assigned as Dedicated Spares.": [
+  "label"
+ ],
+ "There are no disks that can be converted to RAID Disk(s)": [
+  "label"
+ ],
+ "There were no bootable arrays detected in the system.": [
+  "label"
+ ],
+ "This debug mode only use INT.": [
+  "help"
+ ],
+ "This fields specifies the maximum valid ASID, which affects the maximum system physical address space. 16TB of physical address space is available for systems that support 253 ASIDs, while 8TB of physical address space is available for systems that support 509 ASIDs.": [
+  "help"
+ ],
+ "This helps read the aggressors channels. If it is enabled, you can read from one or more than one aggressor channel. The default is set to disabled.": [
+  "help"
+ ],
+ "This is ESACustomOemWrapString.uni": [
+  "title"
+ ],
+ "This is a workaround for OSes without EHCI hand-off support. The EHCI ownership change should be claimed by EHCI driver.": [
+  "help"
+ ],
+ "This is a workaround for OSes without XHCI hand-off support. The XHCI ownership change should be claimed by XHCI driver.": [
+  "help"
+ ],
+ "This only for test.": [
+  "help"
+ ],
+ "This option controls Legacy/UEFI ROMs priority": [
+  "help"
+ ],
+ "This option determines the step size for Read Data Eye voltage sweep, Supported options are 1,2 and 4": [
+  "help"
+ ],
+ "This option determines the step size for write Data Eye voltage sweep, Supported options are 1,2 and 4": [
+  "help"
+ ],
+ "This option, if enabled, will control the Aggressor Static Lane Controls.": [
+  "help"
+ ],
+ "This options determines which results are expected to be captured for Data Eye. Supported options are 1D Voltage Sweep, 1D Timing Sweep, 2D Full Data Eye and Worst Case Margin only.": [
+  "help"
+ ],
+ "This options supports step size for Read Data Eye. Supported options are 1, 2 and 4": [
+  "help"
+ ],
+ "This options supports step size for write Data Eye. Supported options are 1, 2 and 4": [
+  "help"
+ ],
+ "This product is covered by one or more of the following patents:": [
+  "label"
+ ],
+ "This token helps to determine the pattern length. The possible options are N=3...12": [
+  "help"
+ ],
+ "Three Quarters": [
+  "value"
+ ],
+ "Thunderbolt Assign Resource": [
+  "label"
+ ],
+ "Thunderbolt Boot From TB": [
+  "label"
+ ],
+ "Thunderbolt Boot From USB": [
+  "label"
+ ],
+ "Thunderbolt Force PWR": [
+  "label"
+ ],
+ "Thunderbolt Host Chipset": [
+  "label"
+ ],
+ "Thunderbolt L1SS Support": [
+  "label"
+ ],
+ "Thunderbolt MMIO Resource": [
+  "label"
+ ],
+ "Thunderbolt Security Level": [
+  "label"
+ ],
+ "Thunderbolt Support": [
+  "label"
+ ],
+ "Thunderbolt Wake Up Command": [
+  "label"
+ ],
+ "Thunderbolt in SLOT": [
+  "label"
+ ],
+ "Titan Ridge": [
+  "value"
+ ],
+ "To control the total number of PMU debug messages.\r\nSeveral major controls are listed below:\r\n1. Detailed debug messages (e.g. Eye delays)\r\n2. Coarse debug messages (e.g. rank information)\r\n3. Stage completion\r\n4. Firmware completion messages only": [
+  "help"
+ ],
+ "To select.0:Auto(Depend on Tcg modudle). 1:Disabled fTPM. 2:OnBoard SPI TPM2.0": [
+  "help"
+ ],
+ "Total Memory": [
+  "label"
+ ],
+ "Total Memory in the System.": [
+  "help"
+ ],
+ "Total Memory:": [
+  "label"
+ ],
+ "Total Physical Disk Count:": [
+  "label"
+ ],
+ "Touch Pad Support": [
+  "label"
+ ],
+ "Touch Panel Support": [
+  "label"
+ ],
+ "Transition between Deployment\r\nand User Modes": [
+  "help"
+ ],
+ "Transparent": [
+  "value"
+ ],
+ "Tras": [
+  "label"
+ ],
+ "Trc": [
+  "label"
+ ],
+ "Trc Ctrl": [
+  "label"
+ ],
+ "Trcdrd": [
+  "label"
+ ],
+ "Trcdwr": [
+  "label"
+ ],
+ "Trcpage": [
+  "label"
+ ],
+ "Trcpage Ctrl": [
+  "label"
+ ],
+ "TrdrdDd": [
+  "label"
+ ],
+ "TrdrdSc": [
+  "label"
+ ],
+ "TrdrdScL": [
+  "label"
+ ],
+ "TrdrdScL Ctrl": [
+  "label"
+ ],
+ "TrdrdSd": [
+  "label"
+ ],
+ "Trdwr": [
+  "label"
+ ],
+ "Trfc": [
+  "label"
+ ],
+ "Trfc Ctrl": [
+  "label"
+ ],
+ "Trfc2": [
+  "label"
+ ],
+ "Trfc2 Ctrl": [
+  "label"
+ ],
+ "Trfc4": [
+  "label"
+ ],
+ "Trfc4 Ctrl": [
+  "label"
+ ],
+ "Trp": [
+  "label"
+ ],
+ "TrrdL": [
+  "label"
+ ],
+ "TrrdS": [
+  "label"
+ ],
+ "Trtp": [
+  "label"
+ ],
+ "True": [
+  "value"
+ ],
+ "True: UMC::CH::MiscCfg[DisErrInj]=1": [
+  "help"
+ ],
+ "Trusted Computing": [
+  "label",
+  "title"
+ ],
+ "Trusted Computing Settings": [
+  "help"
+ ],
+ "Tskin Time Constant": [
+  "label"
+ ],
+ "Tskin time constant [seconds]": [
+  "help"
+ ],
+ "Turn Unused GPP Clocks Off": [
+  "help"
+ ],
+ "Turn on PPIN feature": [
+  "help"
+ ],
+ "Twr": [
+  "label"
+ ],
+ "Twr Ctrl": [
+  "label"
+ ],
+ "Twrrd": [
+  "label"
+ ],
+ "TwrwrDd": [
+  "label"
+ ],
+ "TwrwrSc": [
+  "label"
+ ],
+ "TwrwrScL": [
+  "label"
+ ],
+ "TwrwrScL Ctrl": [
+  "label"
+ ],
+ "TwrwrSd": [
+  "label"
+ ],
+ "TwtrL": [
+  "label"
+ ],
+ "TwtrS": [
+  "label"
+ ],
+ "UART 0 D3 Support": [
+  "help",
+  "label"
+ ],
+ "UART 1 D3 Support": [
+  "help",
+  "label"
+ ],
+ "UART 2 D3 Support": [
+  "help",
+  "label"
+ ],
+ "UART 3 D3 Support": [
+  "help",
+  "label"
+ ],
+ "UCLK DIV1 MODE": [
+  "label"
+ ],
+ "UCLK==MEMCLK": [
+  "value"
+ ],
+ "UCLK==MEMCLK/2": [
+  "value"
+ ],
+ "UCSI Support": [
+  "label"
+ ],
+ "UCSI tunnel at EC RAM": [
+  "value"
+ ],
+ "UCSI tunnel at MMIO 0xFEEC2000": [
+  "value"
+ ],
+ "UCSI tunnel can be put on ECRAM or MMIO space, this option specify which one is selected.": [
+  "help"
+ ],
+ "UCSI tunnel location": [
+  "label"
+ ],
+ "UEFI": [
+  "value"
+ ],
+ "UEFI Driver Version:": [
+  "label"
+ ],
+ "UEFI OROM Version:": [
+  "label"
+ ],
+ "UEFI and Legacy": [
+  "value"
+ ],
+ "UEFI only": [
+  "value"
+ ],
+ "UMA Frame buffer Size": [
+  "label"
+ ],
+ "UMA Mode": [
+  "help"
+ ],
+ "UMA_AUTO": [
+  "value"
+ ],
+ "UMA_GAME_OPTIMIZED": [
+  "value"
+ ],
+ "UMA_SPECIFIED": [
+  "value"
+ ],
+ "UMC Common Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "UMC_CH::RecCtrl[RecEn][0] and UMC_CH::RecCtrl[MaxParRply]": [
+  "help"
+ ],
+ "UMC_CH::RecCtrl[RecEn][1] and UMC_CH::RecCtrl[MaxCrcRply]": [
+  "help"
+ ],
+ "UPON REQUEST - GA20 can be disabled using BIOS services. ALWAYS - do not allow disabling GA20; this option is useful when any RT code is executed above 1MB.": [
+  "help"
+ ],
+ "USB Camera Enable": [
+  "label"
+ ],
+ "USB Configuration": [
+  "label",
+  "title"
+ ],
+ "USB Configuration Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "USB Configuration Parameters": [
+  "help"
+ ],
+ "USB Configuration Settings": [
+  "help"
+ ],
+ "USB Controllers:": [
+  "label"
+ ],
+ "USB Devices:": [
+  "label"
+ ],
+ "USB Docking Only": [
+  "value"
+ ],
+ "USB Interface": [
+  "label"
+ ],
+ "USB Interface Security": [
+  "label",
+  "title"
+ ],
+ "USB Mass Storage Driver Support": [
+  "label"
+ ],
+ "USB Module Version": [
+  "label"
+ ],
+ "USB PD Section 1 FW Version": [
+  "label"
+ ],
+ "USB PD Section 2 FW Version": [
+  "label"
+ ],
+ "USB Port0 Disable": [
+  "label"
+ ],
+ "USB Support": [
+  "label"
+ ],
+ "USB Support Parameters": [
+  "help"
+ ],
+ "USB hardware delays and time-outs:": [
+  "label"
+ ],
+ "USB mass storage device Start Unit command time-out.": [
+  "help"
+ ],
+ "USB transfer time-out": [
+  "label"
+ ],
+ "Uart 0 Enable": [
+  "help",
+  "label"
+ ],
+ "Uart 0 Legacy Options": [
+  "label"
+ ],
+ "Uart 0 has no HW FC if Uart 2 is enabled": [
+  "help"
+ ],
+ "Uart 1 Enable": [
+  "help",
+  "label"
+ ],
+ "Uart 1 Legacy Options": [
+  "label"
+ ],
+ "Uart 1 has no HW FC if Uart 3 is enabled": [
+  "help"
+ ],
+ "Uart 2 Enable (no HW FC)": [
+  "label"
+ ],
+ "Uart 2 Legacy Options": [
+  "label"
+ ],
+ "Uart 3 Enable (no HW FC)": [
+  "label"
+ ],
+ "Uart 3 Legacy Options": [
+  "label"
+ ],
+ "Uart Configuration Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "Ucode Patch Version": [
+  "label"
+ ],
+ "Unable to create an array of this RAID level as insufficient physicals disks are available.": [
+  "label"
+ ],
+ "Unable to create the array as no configurable capacity is detected.": [
+  "label"
+ ],
+ "Unable to create the array as the maximum number of arrays have been created.": [
+  "label"
+ ],
+ "Unable to display physical disk properties as there are no physical disks currently detected.": [
+  "label"
+ ],
+ "Unassign Hot Spare": [
+  "label"
+ ],
+ "Unassigns disk as a Global Hot Spare": [
+  "help"
+ ],
+ "Uncheck All": [
+  "label"
+ ],
+ "Uncorrected": [
+  "value"
+ ],
+ "Under I2C 0 Bus": [
+  "value"
+ ],
+ "Under I2C 1 Bus": [
+  "value"
+ ],
+ "Under I2C 2 Bus": [
+  "value"
+ ],
+ "Under I2C 3 Bus": [
+  "value"
+ ],
+ "Under USB 6 Bus": [
+  "value"
+ ],
+ "Unforce": [
+  "value"
+ ],
+ "Unforce = Do not force the fan PWM\r\nForce = Force the fan PWM to the use specified value": [
+  "help"
+ ],
+ "Unknown Device": [
+  "label",
+  "value"
+ ],
+ "Unknown Driver": [
+  "label"
+ ],
+ "Unlimited MAC": [
+  "value"
+ ],
+ "Unlock": [
+  "value"
+ ],
+ "Unselects all available physical disks for use in creating this Array.": [
+  "help"
+ ],
+ "Untested MAC": [
+  "value"
+ ],
+ "Unused GPP Clocks Off": [
+  "label"
+ ],
+ "Upon Request": [
+  "value"
+ ],
+ "UrgRefLimit": [
+  "label"
+ ],
+ "Usage of GPP8/9": [
+  "help"
+ ],
+ "Use 4 Channel": [
+  "value"
+ ],
+ "Use 6 Channel": [
+  "value"
+ ],
+ "Use this option to enable / disable DRAM ECC. Auto will set ECC to enable.": [
+  "help"
+ ],
+ "Use this option to enable / disable DRAM UECC Retry.": [
+  "help"
+ ],
+ "Used Space:": [
+  "label"
+ ],
+ "User": [
+  "value"
+ ],
+ "User Authorization": [
+  "value"
+ ],
+ "User Password": [
+  "label"
+ ],
+ "User Password Status": [
+  "label"
+ ],
+ "User Select Monitor Output by Graphic Output Protocol": [
+  "help"
+ ],
+ "V3_DDR50": [
+  "value"
+ ],
+ "V3_SDR104": [
+  "value"
+ ],
+ "V3_SDR50": [
+  "value"
+ ],
+ "VBIOS FW Version": [
+  "label"
+ ],
+ "VBIOS Version": [
+  "label"
+ ],
+ "VDD18 voltage": [
+  "label"
+ ],
+ "VDD18 voltage  Setting.": [
+  "help"
+ ],
+ "VDD18 voltage (1.8V)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:+100mv/TI:+100mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:+110mv/TI:+112.5mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:+120mv/TI:+125mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:+130mv/TI:+137.5mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:+40mv/TI:+25mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:+50mv/TI:+37.5mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:+60mv/TI:+50mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:+70mv/TI:+62.5mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:+80mv/TI:+75mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:+90mv/TI:+87.5mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:-100mv/TI:-100mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:-110mv/TI:-112.5mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:-120mv/TI:-125mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:-130mv/TI:-137.5mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:-40mv/TI:-25mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:-50mv/TI:-37.5mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:-60mv/TI:-50mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:-70mv/TI:-62.5mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:-80mv/TI:-75mv)": [
+  "value"
+ ],
+ "VDD18 voltage (ANPEC:-90mv/TI:-87.5mv)": [
+  "value"
+ ],
+ "VDDG CCD Voltage Control": [
+  "label"
+ ],
+ "VDDG IOD Voltage Control": [
+  "label"
+ ],
+ "VDDG IOD represents voltage for the data portion of the Infinity Fabric. It is derived from the CPU SoC/Uncore Voltage (VDD_SOC). VDDG can approach but not exceed VDD_SOC.": [
+  "help"
+ ],
+ "VDDG Voltage Control": [
+  "label",
+  "title"
+ ],
+ "VDDG represents voltage for the data portion of the Infinity Fabric. It is derived from the CPU SoC/Uncore Voltage (VDD_SOC). VDDG can approach but not exceed VDD_SOC.": [
+  "help",
+  "label"
+ ],
+ "VDDIO Voltage Control": [
+  "label"
+ ],
+ "VDDIO voltage": [
+  "label"
+ ],
+ "VDDIO voltage  Setting. VDDIO=1.2v+(N-128)*5mv  N=0~255": [
+  "help"
+ ],
+ "VDDP Voltage Control": [
+  "label",
+  "title"
+ ],
+ "VDDP is a voltage for the DDR4 bus signaling (PHY), and it is derived from your DRAM Voltage (VDDIO_Mem). As a result, VDDP voltage in mV can approach but not exceed your DRAM Voltage": [
+  "help",
+  "label"
+ ],
+ "VDDP voltage": [
+  "label"
+ ],
+ "VDDP voltage  Setting.": [
+  "help"
+ ],
+ "VDDP voltage (+100mv)": [
+  "value"
+ ],
+ "VDDP voltage (+10mv)": [
+  "value"
+ ],
+ "VDDP voltage (+20mv)": [
+  "value"
+ ],
+ "VDDP voltage (+30mv)": [
+  "value"
+ ],
+ "VDDP voltage (+40mv)": [
+  "value"
+ ],
+ "VDDP voltage (+50mv)": [
+  "value"
+ ],
+ "VDDP voltage (+60mv)": [
+  "value"
+ ],
+ "VDDP voltage (+70mv)": [
+  "value"
+ ],
+ "VDDP voltage (+80mv)": [
+  "value"
+ ],
+ "VDDP voltage (+90mv)": [
+  "value"
+ ],
+ "VDDP voltage (-100mv)": [
+  "value"
+ ],
+ "VDDP voltage (-10mv)": [
+  "value"
+ ],
+ "VDDP voltage (-20mv)": [
+  "value"
+ ],
+ "VDDP voltage (-30mv)": [
+  "value"
+ ],
+ "VDDP voltage (-40mv)": [
+  "value"
+ ],
+ "VDDP voltage (-50mv)": [
+  "value"
+ ],
+ "VDDP voltage (-60mv)": [
+  "value"
+ ],
+ "VDDP voltage (-70mv)": [
+  "value"
+ ],
+ "VDDP voltage (-80mv)": [
+  "value"
+ ],
+ "VDDP voltage (-90mv)": [
+  "value"
+ ],
+ "VDDP voltage (0.75V)": [
+  "value"
+ ],
+ "VGA Support": [
+  "label"
+ ],
+ "VIRT 00  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VIRT 01  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VIRT 02  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VIRT 03  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VIRT 04  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VIRT 05  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VIRT 06  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VIRT 07  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VIRT 08  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VIRT 09  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VIRT 10  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VIRT 11  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VIRT 12  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VIRT 13  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VIRT 14  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VIRT 15  0123456789012345678901234567890123456789012345678901234567890": [
+  "label",
+  "value"
+ ],
+ "VLAN Configuration": [
+  "title"
+ ],
+ "VLAN ID": [
+  "label"
+ ],
+ "VLAN ID of new VLAN or existing VLAN, valid value is 0~4094": [
+  "help"
+ ],
+ "VLAN configuration for this network device": [
+  "help"
+ ],
+ "Valid": [
+  "value"
+ ],
+ "Value in hex, 1, 2 or 3 is invalid": [
+  "help"
+ ],
+ "Vendor 0000 Device 0000 SubVendor 0000 SubDevice 0000": [
+  "value"
+ ],
+ "Vendor Keys": [
+  "label"
+ ],
+ "Vendor:": [
+  "label"
+ ],
+ "Ver2.0": [
+  "value"
+ ],
+ "Ver3.0": [
+  "value"
+ ],
+ "Version": [
+  "label"
+ ],
+ "Video": [
+  "label"
+ ],
+ "View Array Properties.": [
+  "title"
+ ],
+ "View Associated Logical Arrays": [
+  "label"
+ ],
+ "View Associated Physical Disks": [
+  "label",
+  "title"
+ ],
+ "View Controller Information": [
+  "label",
+  "title"
+ ],
+ "View Global Hot Spares": [
+  "label",
+  "title"
+ ],
+ "View Information related to Socket 0": [
+  "help"
+ ],
+ "View Memory Information related to Node 0": [
+  "help"
+ ],
+ "View Physical Disk Properties": [
+  "label",
+  "title"
+ ],
+ "Volume": [
+  "value"
+ ],
+ "WALLE lite PDT": [
+  "value"
+ ],
+ "WALLE lite PM log": [
+  "value"
+ ],
+ "WARNING - DAMAGE CAUSED BY USE OF YOUR AMD PROCESSOR OUTSIDE OF SPECIFICATION OR IN EXCESS OF FACTORY SETTINGS ARE NOT COVERED UNDER YOUR AMD PRODUCT WARRANTY AND MAY NOT BE COVERED BY YOUR SYSTEM MANUFACTURER'S WARRANTY.": [
+  "label"
+ ],
+ "WARNING - DAMAGE CAUSED BY USE OF YOUR AMD PROCESSOR OUTSIDE OF SPECIFICATION OR IN EXCESS OF FACTORY SETTINGS ARE NOT COVERED UNDER YOUR AMD PRODUCT WARRANTY AND MAY NOT BE COVERED BY YOUR SYSTEM MANUFACTURER'S WARRANTY.\r\nOperating your AMD processor outside of specification or in excess of factory settings, including but not limited to overclocking, and undervolting, may damage or shorten the life of your processor or other system components, create system instabilities (e.g., data loss and corrupted images) and in extreme cases may result in total system failure. AMD does not provide support or service for issues or damages related to use of an AMD processor outside of processor specifications or in excess of factory settings.": [
+  "label"
+ ],
+ "WARNING! Global Hot Spare may be more suitable for current and or future Array Configuration.": [
+  "label"
+ ],
+ "WARNING: Changing Device(s) Option ROM": [
+  "label"
+ ],
+ "WARNING: Changing PCI Device(s) settings may": [
+  "label"
+ ],
+ "WARNING: The Global Hot Spare about to be assigned is too small for at least one Array!  Are you sure you want to do this?": [
+  "label"
+ ],
+ "WITT Only": [
+  "value"
+ ],
+ "WLAN/WIFI Power Enable": [
+  "label"
+ ],
+ "WWAN Power Enable": [
+  "label"
+ ],
+ "Wait time in seconds to press ESC key to abort the PXE boot. Use either +/- or numeric keys to set the value.": [
+  "help"
+ ],
+ "Wake On Voice": [
+  "label"
+ ],
+ "Wake on PME": [
+  "label"
+ ],
+ "Warning": [
+  "title"
+ ],
+ "Warning: Select System Configuration may cause the system to hang, as some System Configuration may not be supported by your OPN.": [
+  "help"
+ ],
+ "Warning: drive mixing detected! For best performance, it is not recommended to mix drives of substantially different performance. Select NO to go back and make changes.": [
+  "label"
+ ],
+ "When DF Cstate feature is enabled, FW programs the registers required to enable this feature is the DF HW. (For auto option, it means this option will synchronized with Global C State.)": [
+  "help"
+ ],
+ "When New CPU is installed, Select \"Enabled\" to reset fTPM, if you have BitLocker or encryption-enabled system, the system will not boot without a recovery key. Select \"Disabled\" to keep previous fTPM record and continue system boot, fTPM will NOT be enabled with new CPU unless fTPM is reset (reinitialized), you could swap back to the old CPU to recover TPM related keys and data.": [
+  "help"
+ ],
+ "When enabled, the system power consumption can be reduced at power off state. The wake up capability might be not workable.": [
+  "help"
+ ],
+ "When this feature is disabled, BIOS does not implement MemClear after memory training (only if non-ECC DIMMs are used).": [
+  "help"
+ ],
+ "When this option is enabled, specific uncorrected errors detected by the PSP FW or SMU FW will hang and not reset the system": [
+  "help"
+ ],
+ "Wireless LAN Recovery": [
+  "label"
+ ],
+ "Wireless LAN Recovery suppport Enable/Disable": [
+  "help"
+ ],
+ "Wireless Manageability Support": [
+  "label"
+ ],
+ "Wireless Network Interface": [
+  "label"
+ ],
+ "Wireless Network and BlueTooth Interface": [
+  "label"
+ ],
+ "Worst Case Margin Granularity": [
+  "label"
+ ],
+ "Worst Case Margin Only": [
+  "value"
+ ],
+ "Write Back Cache": [
+  "value"
+ ],
+ "Write CRC Enable": [
+  "label"
+ ],
+ "Write Cache Policy:": [
+  "label"
+ ],
+ "Write Timing Sweep Step Size": [
+  "label"
+ ],
+ "Write Voltage Sweep Step Size": [
+  "label"
+ ],
+ "XFR Enhancement": [
+  "help",
+  "label",
+  "title"
+ ],
+ "XGBE Configuration Options": [
+  "help",
+  "label",
+  "title"
+ ],
+ "XGBE0 enable": [
+  "label"
+ ],
+ "XGBE1 enable": [
+  "label"
+ ],
+ "XHCI D3 Support": [
+  "help",
+  "label"
+ ],
+ "XHCI Hand-off": [
+  "label"
+ ],
+ "XHCI Legacy Support": [
+  "label"
+ ],
+ "XHCI0 2.0 Port 0": [
+  "label"
+ ],
+ "XHCI0 2.0 Port 1": [
+  "label"
+ ],
+ "XHCI0 2.0 Port 2": [
+  "label"
+ ],
+ "XHCI0 2.0 Port 3": [
+  "label"
+ ],
+ "XHCI0 2.0 port enable": [
+  "help",
+  "label",
+  "title"
+ ],
+ "XHCI0 3.1 Port 0": [
+  "label"
+ ],
+ "XHCI0 3.1 Port 1": [
+  "label"
+ ],
+ "XHCI0 3.1 port enable": [
+  "help",
+  "label",
+  "title"
+ ],
+ "XHCI0 Port 0": [
+  "label"
+ ],
+ "XHCI0 Port 1": [
+  "label"
+ ],
+ "XHCI0 Port 2": [
+  "label"
+ ],
+ "XHCI0 Port 3": [
+  "label"
+ ],
+ "XHCI0 controller enable": [
+  "label"
+ ],
+ "XHCI1 2.0 Port 0": [
+  "label"
+ ],
+ "XHCI1 2.0 Port 1": [
+  "label"
+ ],
+ "XHCI1 2.0 Port 2": [
+  "label"
+ ],
+ "XHCI1 2.0 Port 3": [
+  "label"
+ ],
+ "XHCI1 2.0 port enable": [
+  "help",
+  "label",
+  "title"
+ ],
+ "XHCI1 3.1 Port 0": [
+  "label"
+ ],
+ "XHCI1 3.1 Port 1": [
+  "label"
+ ],
+ "XHCI1 3.1 port enable": [
+  "help",
+  "label",
+  "title"
+ ],
+ "XHCI1 Port 0": [
+  "label"
+ ],
+ "XHCI1 Port 1": [
+  "label"
+ ],
+ "XHCI1 Port 2": [
+  "label"
+ ],
+ "XHCI1 Port 3": [
+  "label"
+ ],
+ "XHCI1 controller enable": [
+  "label"
+ ],
+ "YES": [
+  "label"
+ ],
+ "Yes": [
+  "label"
+ ],
+ "Yes, please wait for the operation to complete.": [
+  "label"
+ ],
+ "You are about to unassign a Hot Spare.  Doing so may leave your data at risk in the event of a disk failure.  Are you sure you want to do this?": [
+  "label"
+ ],
+ "You have selected physical disks with different capacity.  If you continue creating the Array with these disks remaining free capacity will become unusable.  Are you sure you want to do this?": [
+  "label"
+ ],
+ "Zero-Power ODD": [
+  "label"
+ ],
+ "_OSC For PCI0": [
+  "label"
+ ],
+ "and is only asked for when entering Setup.": [
+  "label"
+ ],
+ "automatic": [
+  "value"
+ ],
+ "automatic or manual": [
+  "help"
+ ],
+ "boot or enter Setup. In Setup the User will": [
+  "label"
+ ],
+ "customized Precision Boost Overdrive Scalar": [
+  "label"
+ ],
+ "dispatch policy may affect system’s ability": [
+  "label"
+ ],
+ "due to active UEFI Secure Boot mode.": [
+  "label"
+ ],
+ "entered to boot or enter Setup. In Setup the User will have Administrator rights.": [
+  "label"
+ ],
+ "have Administrator rights.": [
+  "label"
+ ],
+ "have unwanted side effects! System may HANG!": [
+  "label"
+ ],
+ "iGPU Configuration": [
+  "label"
+ ],
+ "iGPU Disabled": [
+  "value"
+ ],
+ "iLA TraceMemoryEn": [
+  "label"
+ ],
+ "iLA TraceMemoryEn reserved MMIO": [
+  "label"
+ ],
+ "iSATA0 Power Enable": [
+  "label"
+ ],
+ "iSATA1 Power Enable": [
+  "label"
+ ],
+ "in the following range:": [
+  "label"
+ ],
+ "is a power on password and must be entered to": [
+  "label"
+ ],
+ "manual": [
+  "value"
+ ],
+ "n/a": [
+  "label"
+ ],
+ "only asked for when entering Setup.": [
+  "label"
+ ],
+ "selecting Yes, please wait for the operation to complete.": [
+  "label"
+ ],
+ "selecting, please wait for the operation to complete.": [
+  "label"
+ ],
+ "then this only limits access to Setup and is": [
+  "label"
+ ],
+ "to post and/or boot!PROCEED WITH CAUTION!": [
+  "label"
+ ],
+ "x2APIC": [
+  "value"
+ ],
+ "x4": [
+  "value"
+ ],
+ "x8": [
+  "value"
+ ],
+ "xAPIC": [
+  "value"
+ ],
+ "xx": [
+  "help"
+ ]
+}
